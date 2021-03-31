@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: ec49f5835a0d17e4cb721f3b84a17a8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3663066321827104223
+    second: brillo
+  - first:
+      213: -2196394635842594778
+    second: interfaz generica_1
+  - first:
+      213: -3250200302174315932
+    second: interfaz generica_2
+  - first:
+      213: -1071780808323884391
+    second: interfaz generica_3
+  - first:
+      213: -3304776763168324104
+    second: logo
+  - first:
+      213: -5939409242134669978
+    second: interfaz generica_5
+  - first:
+      213: 2459697088066649987
+    second: interfaz generica_6
+  - first:
+      213: 2521900741986977665
+    second: interfaz generica_7
+  - first:
+      213: -2798022440600088540
+    second: interfaz generica_8
+  - first:
+      213: -630876768032716372
+    second: interfaz generica_9
+  - first:
+      213: -8904499236054357049
+    second: interfaz generica_10
+  - first:
+      213: 2121073078114567725
+    second: intrucciones
+  - first:
+      213: 3869846711815941475
+    second: interfaz generica_12
+  - first:
+      213: 3870546985336269943
+    second: interfaz generica_13
+  - first:
+      213: 1766936924449809730
+    second: boton_cerrar
+  - first:
+      213: 7512946192784550905
+    second: fondo
+  - first:
+      213: -5155030186073072891
+    second: mas
+  - first:
+      213: -6722588574979375011
+    second: boton_generico
+  - first:
+      213: -6284931658081708453
+    second: lineas_boton_generico
+  - first:
+      213: -6415939733948444895
+    second: interfaz generica_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7305
+        width: 1875
+        height: 1035
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f503691b031322d0800000000000000
+      internalID: -3304776763168324104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intrucciones
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6445
+        width: 1437
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 251, y: 0, z: 85, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c9a30ab09f6d10800000000000000
+      internalID: 2121073078114567725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_cerrar
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5398
+        width: 565
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452a5a65cb658810800000000000000
+      internalID: 1766936924449809730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondo
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 179
+        width: 5915
+        height: 5828
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1947, y: 853, z: 1365, w: 1400}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbeb8dc1c8534860800000000000000
+      internalID: 7512946192784550905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mas
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4983
+        width: 251
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd2b8bb57a578b0800000000000000
+      internalID: -5155030186073072891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boton_generico
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4423
+        width: 975
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 299, y: 48, z: 344, w: 41}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5041411f4194b2a0800000000000000
+      internalID: -6722588574979375011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineas_boton_generico
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3752
+        width: 1132
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 312, y: 0, z: 431, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56de6ab4ff67c8a0800000000000000
+      internalID: -6284931658081708453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brillo
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2182
+        width: 1204
+        height: 1170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7cca869c2a2dc0800000000000000
+      internalID: -3663066321827104223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
