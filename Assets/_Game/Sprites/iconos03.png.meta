@@ -1,67 +1,46 @@
 fileFormatVersion: 2
-guid: ec49f5835a0d17e4cb721f3b84a17a8e
+guid: 55e3e80356f5541478abe719ecad3521
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3663066321827104223
-    second: brillo
+      213: 1190947621584507464
+    second: iconos03_0
   - first:
-      213: -2196394635842594778
-    second: interfaz generica_1
+      213: -5013769295296076712
+    second: iconos03_1
   - first:
-      213: -3250200302174315932
-    second: interfaz generica_2
+      213: 2128683481505307314
+    second: iconos03_2
   - first:
-      213: -1071780808323884391
-    second: interfaz generica_3
+      213: -3662530289254892776
+    second: iconos03_3
   - first:
-      213: -3304776763168324104
-    second: logo
+      213: -3231464760832507099
+    second: iconos03_4
   - first:
-      213: -5939409242134669978
-    second: interfaz generica_5
+      213: -2923061392101546345
+    second: iconos03_5
   - first:
-      213: 2459697088066649987
-    second: interfaz generica_6
+      213: 1891462736938708536
+    second: iconos03_6
   - first:
-      213: 2521900741986977665
-    second: interfaz generica_7
+      213: -4726264667818047669
+    second: iconos03_7
   - first:
-      213: -2798022440600088540
-    second: interfaz generica_8
+      213: -2171853436670260819
+    second: iconos03_8
   - first:
-      213: -630876768032716372
-    second: interfaz generica_9
+      213: -4555122115981906182
+    second: iconos03_9
   - first:
-      213: -8904499236054357049
-    second: interfaz generica_10
+      213: 1306465307247643021
+    second: iconos03_10
   - first:
-      213: 2121073078114567725
-    second: intrucciones
+      213: 3085067113581216357
+    second: iconos03_11
   - first:
-      213: 3869846711815941475
-    second: interfaz generica_12
-  - first:
-      213: 3870546985336269943
-    second: interfaz generica_13
-  - first:
-      213: 1766936924449809730
-    second: boton_cerrar
-  - first:
-      213: 7512946192784550905
-    second: fondo
-  - first:
-      213: -5155030186073072891
-    second: mas
-  - first:
-      213: -6722588574979375011
-    second: boton_generico
-  - first:
-      213: -6284931658081708453
-    second: lineas_boton_generico
-  - first:
-      213: -6415939733948444895
-    second: interfaz generica_19
+      213: 5853212403212020022
+    second: iconos03_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -159,169 +138,274 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: logo
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 7305
-        width: 1875
-        height: 1035
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f503691b031322d0800000000000000
-      internalID: -3304776763168324104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: intrucciones
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 6445
-        width: 1437
-        height: 262
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 251, y: 0, z: 85, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d26c9a30ab09f6d10800000000000000
-      internalID: 2121073078114567725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boton_cerrar
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 5398
-        width: 565
-        height: 557
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2452a5a65cb658810800000000000000
-      internalID: 1766936924449809730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fondo
-      rect:
-        serializedVersion: 2
-        x: 2534
-        y: 179
-        width: 5915
-        height: 5828
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fbeb8dc1c8534860800000000000000
-      internalID: 7512946192784550905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mas
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 4983
-        width: 251
-        height: 252
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50bd2b8bb57a578b0800000000000000
-      internalID: -5155030186073072891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boton_generico
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 4423
-        width: 975
-        height: 250
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 299, y: 48, z: 344, w: 41}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5041411f4194b2a0800000000000000
-      internalID: -6722588574979375011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: lineas_boton_generico
+      name: iconos03_0
       rect:
         serializedVersion: 2
         x: 148
-        y: 3752
-        width: 1132
-        height: 337
+        y: 1335
+        width: 214
+        height: 648
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 312, y: 0, z: 431, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b56de6ab4ff67c8a0800000000000000
-      internalID: -6284931658081708453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: brillo
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 2182
-        width: 1204
-        height: 1170
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12a7cca869c2a2dc0800000000000000
-      internalID: -3663066321827104223
+      spriteID: 84214aa4d88178010800000000000000
+      internalID: 1190947621584507464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1338
+        width: 245
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ed18d3638b6ab0800000000000000
+      internalID: -5013769295296076712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_2
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1336
+        width: 281
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba9d52295a9a8d10800000000000000
+      internalID: 2128683481505307314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1346
+        width: 272
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7ad95b141c2dc0800000000000000
+      internalID: -3662530289254892776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_4
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1221
+        width: 509
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c26acbe78723d0800000000000000
+      internalID: -3231464760832507099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1005
+        width: 357
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796e023a6233f67d0800000000000000
+      internalID: -2923061392101546345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 964
+        width: 391
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eae1d7653df3a10800000000000000
+      internalID: 1891462736938708536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 970
+        width: 319
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c930535fe86eb0800000000000000
+      internalID: -4726264667818047669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 921
+        width: 529
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9ce0b6ec60cd1e0800000000000000
+      internalID: -2171853436670260819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 179
+        width: 255
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6f50d194f8c0c0800000000000000
+      internalID: -4555122115981906182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 599
+        width: 256
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890ed5664f712210800000000000000
+      internalID: 1306465307247643021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_11
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 21
+        width: 982
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628f35c13c50da20800000000000000
+      internalID: 3085067113581216357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos03_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 177
+        width: 292
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ec584ba9ca3150800000000000000
+      internalID: 5853212403212020022
       vertices: []
       indices: 
       edges: []
