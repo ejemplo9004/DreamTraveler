@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 4a413c4718e70fc449f7326b88c74633
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2225750655878023450
+    second: Pack_Maletas_0
+  - first:
+      213: -7892782519561446360
+    second: Pack_Maletas_1
+  - first:
+      213: -571236233921119466
+    second: Pack_Maletas_2
+  - first:
+      213: 9212759923897669318
+    second: Pack_Maletas_3
+  - first:
+      213: -3755551971162270610
+    second: Pack_Maletas_4
+  - first:
+      213: 6113389261826477715
+    second: Pack_Maletas_5
+  - first:
+      213: 8857122178653754073
+    second: Pack_Maletas_6
+  - first:
+      213: -6263873879377606184
+    second: Pack_Maletas_7
+  - first:
+      213: 2211674229244252223
+    second: Pack_Maletas_8
+  - first:
+      213: 7792796967085339748
+    second: Pack_Maletas_9
+  - first:
+      213: -148498028700309637
+    second: Pack_Maletas_10
+  - first:
+      213: 2830327527621611488
+    second: Pack_Maletas_11
+  - first:
+      213: -1180985617005500957
+    second: Pack_Maletas_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pack_Maletas_0
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1806
+        width: 503
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 207, y: 0, z: 35, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c332dd6473ee10800000000000000
+      internalID: 2225750655878023450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_1
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1405
+        width: 343
+        height: 549
+      alignment: 9
+      pivot: {x: 0.50525755, y: 0.049991462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9020cd14377290800000000000000
+      internalID: -7892782519561446360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_2
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1385
+        width: 346
+        height: 509
+      alignment: 9
+      pivot: {x: 0.5156356, y: 0.025255844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bbc4afbaf8218f0800000000000000
+      internalID: -571236233921119466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1426
+        width: 490
+        height: 372
+      alignment: 9
+      pivot: {x: 0.49263954, y: 0.049170382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c610e8e65c4adf70800000000000000
+      internalID: 9212759923897669318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_4
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1413
+        width: 350
+        height: 305
+      alignment: 9
+      pivot: {x: 0.48969534, y: 0.044735767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64da57416991ebc0800000000000000
+      internalID: -3755551971162270610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 878
+        width: 224
+        height: 301
+      alignment: 9
+      pivot: {x: 0.50805056, y: 0.044676922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ecadcb42f17d450800000000000000
+      internalID: 6113389261826477715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 855
+        width: 218
+        height: 315
+      alignment: 9
+      pivot: {x: 0.49172807, y: 0.013390144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d214e6c1b1daea70800000000000000
+      internalID: 8857122178653754073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 836
+        width: 392
+        height: 453
+      alignment: 9
+      pivot: {x: 0.50920075, y: 0.030261176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d989d5e4ef3219a0800000000000000
+      internalID: -6263873879377606184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 885
+        width: 373
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4806615, y: 0.043534853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f305df85ef171be10800000000000000
+      internalID: 2211674229244252223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 387
+        height: 376
+      alignment: 9
+      pivot: {x: 0.48602074, y: 0.04437414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464fcd5bd83952c60800000000000000
+      internalID: 7792796967085339748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 228
+        width: 394
+        height: 333
+      alignment: 9
+      pivot: {x: 0.49084613, y: 0.03427807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77e87564dd60fdf0800000000000000
+      internalID: -148498028700309637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 105
+        width: 370
+        height: 694
+      alignment: 9
+      pivot: {x: 0.4658833, y: 0.034878734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef45e104e7574720800000000000000
+      internalID: 2830327527621611488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_Maletas_12
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 130
+        width: 551
+        height: 376
+      alignment: 9
+      pivot: {x: 0.48690856, y: 0.053966157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5aa85a6db4c9fe0800000000000000
+      internalID: -1180985617005500957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
