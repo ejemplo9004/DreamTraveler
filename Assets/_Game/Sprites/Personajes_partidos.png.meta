@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 6ab4a33b0129d104f90a0c5ee4f8ad3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1164701415213530034
+    second: Personajes_partidos_0
+  - first:
+      213: -3203046188890316427
+    second: Personajes_partidos_1
+  - first:
+      213: 8495552050538628658
+    second: Personajes_partidos_2
+  - first:
+      213: -4693279707292005011
+    second: Personajes_partidos_3
+  - first:
+      213: 453394705083065371
+    second: Personajes_partidos_4
+  - first:
+      213: -7576767264282945809
+    second: Personajes_partidos_5
+  - first:
+      213: 2879852556081654178
+    second: Personajes_partidos_6
+  - first:
+      213: -445069267586977062
+    second: Personajes_partidos_7
+  - first:
+      213: -8663691217454869551
+    second: Personajes_partidos_8
+  - first:
+      213: -1050157449406946263
+    second: Personajes_partidos_9
+  - first:
+      213: 7612522660121721862
+    second: Personajes_partidos_10
+  - first:
+      213: 2270005139572247343
+    second: Personajes_partidos_11
+  - first:
+      213: -1488611598998020593
+    second: Personajes_partidos_12
+  - first:
+      213: -1587324857513441933
+    second: Personajes_partidos_13
+  - first:
+      213: -8799801325885850609
+    second: Personajes_partidos_14
+  - first:
+      213: -9165518774637442621
+    second: Personajes_partidos_15
+  - first:
+      213: 6912792030097841533
+    second: Personajes_partidos_16
+  - first:
+      213: 7978414732104128530
+    second: Personajes_partidos_17
+  - first:
+      213: 102621799034398964
+    second: Personajes_partidos_18
+  - first:
+      213: 9139511992675687074
+    second: Personajes_partidos_19
+  - first:
+      213: -3397412195219505537
+    second: Personajes_partidos_20
+  - first:
+      213: -219389192826422485
+    second: Personajes_partidos_21
+  - first:
+      213: 4962178121972339069
+    second: Personajes_partidos_22
+  - first:
+      213: 8491059544843718722
+    second: Personajes_partidos_23
+  - first:
+      213: 378448836398525034
+    second: Personajes_partidos_24
+  - first:
+      213: -7124474628288670628
+    second: Personajes_partidos_25
+  - first:
+      213: -7535077449340426692
+    second: Personajes_partidos_26
+  - first:
+      213: -482632357686264724
+    second: Personajes_partidos_27
+  - first:
+      213: -3292379491627505914
+    second: Personajes_partidos_28
+  - first:
+      213: 439310016123984985
+    second: Personajes_partidos_29
+  - first:
+      213: 2545648676464994112
+    second: Personajes_partidos_30
+  - first:
+      213: 6797462298868091415
+    second: Personajes_partidos_31
+  - first:
+      213: 1280441557766777587
+    second: Personajes_partidos_32
+  - first:
+      213: -6056485163550382033
+    second: Personajes_partidos_33
+  - first:
+      213: 7806982035902839262
+    second: Personajes_partidos_34
+  - first:
+      213: 6737897900098127391
+    second: Personajes_partidos_35
+  - first:
+      213: 6111815134518186724
+    second: Personajes_partidos_36
+  - first:
+      213: 2227511127406985552
+    second: Personajes_partidos_37
+  - first:
+      213: 5246244367200873903
+    second: Personajes_partidos_38
+  - first:
+      213: 361986190741795647
+    second: Personajes_partidos_39
+  - first:
+      213: 5041743749671121914
+    second: Personajes_partidos_40
+  - first:
+      213: -3530057469343306874
+    second: Personajes_partidos_41
+  - first:
+      213: -6020963003060432982
+    second: Personajes_partidos_42
+  - first:
+      213: -6300698168656795621
+    second: Personajes_partidos_43
+  - first:
+      213: -978135680322899000
+    second: Personajes_partidos_44
+  - first:
+      213: 194812252188739258
+    second: Personajes_partidos_45
+  - first:
+      213: 6796104062440541124
+    second: Personajes_partidos_46
+  - first:
+      213: -3233212039068914388
+    second: Personajes_partidos_47
+  - first:
+      213: -4401096232986565277
+    second: Personajes_partidos_48
+  - first:
+      213: 337564826702438280
+    second: Personajes_partidos_49
+  - first:
+      213: 1728864554501670190
+    second: Personajes_partidos_50
+  - first:
+      213: -575721652870964961
+    second: Personajes_partidos_51
+  - first:
+      213: -8132332856228638300
+    second: Personajes_partidos_52
+  - first:
+      213: -7396292393867222124
+    second: Personajes_partidos_53
+  - first:
+      213: -928621367084893439
+    second: Personajes_partidos_54
+  - first:
+      213: 8238711332944923222
+    second: Personajes_partidos_55
+  - first:
+      213: 258120948867928309
+    second: Personajes_partidos_56
+  - first:
+      213: 8068053777446918051
+    second: Personajes_partidos_57
+  - first:
+      213: 62844850418154499
+    second: Personajes_partidos_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajes_partidos_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1710
+        width: 229
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5074584, y: 0.0050516888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448dc4db3626dfe0800000000000000
+      internalID: -1164701415213530034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1690
+        width: 229
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5298707, y: 0.002410327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712600367e7c83d0800000000000000
+      internalID: -3203046188890316427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1690
+        width: 229
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5426724, y: -0.0005871357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236423f149346e570800000000000000
+      internalID: 8495552050538628658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1631
+        width: 54
+        height: 125
+      alignment: 9
+      pivot: {x: 0.7791861, y: 0.9824326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d8f47e8fe1edeb0800000000000000
+      internalID: -4693279707292005011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1732
+        width: 214
+        height: 279
+      alignment: 9
+      pivot: {x: 0.56928116, y: 0.0040204446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e4830518ca4600800000000000000
+      internalID: 453394705083065371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1626
+        width: 54
+        height: 125
+      alignment: 9
+      pivot: {x: 0.20713523, y: 0.9744385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65b9a015ae9d690800000000000000
+      internalID: -7576767264282945809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_6
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1731
+        width: 214
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5990104, y: 0.015267043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96fb244aa47f720800000000000000
+      internalID: 2879852556081654178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_7
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1731
+        width: 214
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5990104, y: 0.0135358535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f805fbdbc2d9f0800000000000000
+      internalID: -445069267586977062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1581
+        width: 43
+        height: 116
+      alignment: 9
+      pivot: {x: 0.71037674, y: 0.9608165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35eeb6db264c780800000000000000
+      internalID: -8663691217454869551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1455
+        width: 147
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.006018575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9246edd1d571d61f0800000000000000
+      internalID: -1050157449406946263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1550
+        width: 43
+        height: 116
+      alignment: 9
+      pivot: {x: 0.25137186, y: 0.95372695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cba29c60d15a960800000000000000
+      internalID: 7612522660121721862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1300
+        width: 64
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc38eb5ada08f10800000000000000
+      internalID: 2270005139572247343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_12
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1495
+        width: 161
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5000008, y: -0.00037100847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e523143a3675be0800000000000000
+      internalID: -1488611598998020593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1213
+        width: 61
+        height: 267
+      alignment: 9
+      pivot: {x: 0.24384834, y: 0.9527711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37583ccb370b8f9e0800000000000000
+      internalID: -1587324857513441933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1347
+        width: 135
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cff844153d0e580800000000000000
+      internalID: -8799801325885850609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1233
+        width: 60
+        height: 267
+      alignment: 9
+      pivot: {x: 0.26015064, y: 0.94017184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9cf874c398dc080800000000000000
+      internalID: -9165518774637442621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1395
+        width: 140
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5203334, y: 0.4005127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1220d9bb2fef50800000000000000
+      internalID: 6912792030097841533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_17
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1288
+        width: 64
+        height: 285
+      alignment: 9
+      pivot: {x: 0.21623039, y: 0.94606763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2185fc96de509be60800000000000000
+      internalID: 7978414732104128530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1111
+        width: 61
+        height: 218
+      alignment: 9
+      pivot: {x: 0.48166868, y: 0.89498484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f828a58bf59c6100800000000000000
+      internalID: 102621799034398964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1111
+        width: 61
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.8898551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5bdfebb116de70800000000000000
+      internalID: 9139511992675687074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_20
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1165
+        width: 72
+        height: 207
+      alignment: 9
+      pivot: {x: 0.50000167, y: 0.86363447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7c54db97f9d0d0800000000000000
+      internalID: -3397412195219505537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_21
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1181
+        width: 72
+        height: 207
+      alignment: 9
+      pivot: {x: 0.515842, y: 0.86914414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b750601b294fcf0800000000000000
+      internalID: -219389192826422485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 871
+        width: 56
+        height: 221
+      alignment: 9
+      pivot: {x: 0.4800317, y: 0.8946826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71506016b23dd440800000000000000
+      internalID: 4962178121972339069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 871
+        width: 56
+        height: 221
+      alignment: 9
+      pivot: {x: 0.4800317, y: 0.90480286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24099112bad46d570800000000000000
+      internalID: 8491059544843718722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1015
+        width: 77
+        height: 113
+      alignment: 9
+      pivot: {x: 0.12655284, y: 0.88840616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa13b2635804500800000000000000
+      internalID: 378448836398525034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_25
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 951
+        width: 59
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4743487, y: 0.8485507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5412999218c02d90800000000000000
+      internalID: -7124474628288670628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_26
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 917
+        width: 59
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42304605, y: 0.86689526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e10d7bf60e6790800000000000000
+      internalID: -7535077449340426692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_27
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 982
+        width: 77
+        height: 113
+      alignment: 9
+      pivot: {x: 0.16586344, y: 0.88840616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c30038d685d49f0800000000000000
+      internalID: -482632357686264724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 933
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.18049571, y: 0.8384239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e2cfcb4e1f42d0800000000000000
+      internalID: -3292379491627505914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 939
+        width: 85
+        height: 76
+      alignment: 9
+      pivot: {x: 0.1845775, y: 0.82337874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5751d12eb81600800000000000000
+      internalID: 439310016123984985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 540
+        width: 178
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5432956, y: 0.0011518286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047a3abdbf5f35320800000000000000
+      internalID: 2545648676464994112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_31
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 541
+        width: 178
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5516882, y: 0.007874941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a842242ff655e50800000000000000
+      internalID: 6797462298868091415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_32
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 541
+        width: 178
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5580959, y: 0.011713381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa265e00da05c110800000000000000
+      internalID: 1280441557766777587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_33
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 600
+        width: 163
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5606607, y: 0.009994292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e72715da03fba0800000000000000
+      internalID: -6056485163550382033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 570
+        width: 163
+        height: 213
+      alignment: 9
+      pivot: {x: 0.61458206, y: 0.009994292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed938d96cc8f75c60800000000000000
+      internalID: 7806982035902839262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_35
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 570
+        width: 163
+        height: 213
+      alignment: 9
+      pivot: {x: 0.58088017, y: 0.004836391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160334f072d18d50800000000000000
+      internalID: 6737897900098127391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 421
+        width: 55
+        height: 128
+      alignment: 9
+      pivot: {x: 0.8305082, y: 0.959095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e210d9ab7781d450800000000000000
+      internalID: 6111815134518186724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 196
+        width: 153
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c25a8195b9ee10800000000000000
+      internalID: 2227511127406985552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 416
+        width: 55
+        height: 128
+      alignment: 9
+      pivot: {x: 0.10498546, y: 0.98410654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade6e7c4776ec840800000000000000
+      internalID: 5246244367200873903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_39
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 491
+        width: 33
+        height: 79
+      alignment: 9
+      pivot: {x: 0.734904, y: 0.98549217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f2c8c588060500800000000000000
+      internalID: 361986190741795647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_40
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 387
+        width: 116
+        height: 186
+      alignment: 9
+      pivot: {x: 0.49384385, y: 0.004776657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af371bf5a3fd7f540800000000000000
+      internalID: 5041743749671121914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_41
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 494
+        width: 34
+        height: 80
+      alignment: 9
+      pivot: {x: 0.21168429, y: 0.97715914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be3174f67b20fc0800000000000000
+      internalID: -3530057469343306874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 298
+        width: 44
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25918502, y: 0.97510564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf40d49c0e317ca0800000000000000
+      internalID: -6020963003060432982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 265
+        width: 44
+        height: 99
+      alignment: 9
+      pivot: {x: 0.21447615, y: 0.95416754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e14ce56c6f88a0800000000000000
+      internalID: -6300698168656795621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_44
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 287
+        width: 47
+        height: 207
+      alignment: 9
+      pivot: {x: 0.25628793, y: 0.9533217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f738f7c6fc62f0800000000000000
+      internalID: -978135680322899000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_45
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 309
+        width: 108
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49999887, y: 0.33423942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68a9116bc14b200800000000000000
+      internalID: 194812252188739258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_46
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 287
+        width: 47
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2560204, y: 0.94473577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8b5233ac905e50800000000000000
+      internalID: 6796104062440541124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 49
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.866442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2de7cfd7c25123d0800000000000000
+      internalID: -3233212039068914388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 106
+        width: 49
+        height: 144
+      alignment: 9
+      pivot: {x: 0.48330626, y: 0.8635506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a68a4b4a2ce2c0800000000000000
+      internalID: -4401096232986565277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_49
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 79
+        width: 46
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5261549, y: 0.88988644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd340eb654fa400800000000000000
+      internalID: 337564826702438280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_50
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 149
+        width: 56
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4980534, y: 0.94565845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2506d307292ef710800000000000000
+      internalID: 1728864554501670190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_51
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 138
+        width: 56
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5240043, y: 0.9440519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19102ff430a208f0800000000000000
+      internalID: -575721652870964961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_52
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 66
+        width: 46
+        height: 179
+      alignment: 9
+      pivot: {x: 0.4999947, y: 0.91756684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1114daa56242f80800000000000000
+      internalID: -8132332856228638300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 40
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4583412, y: 0.85883015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ee9841471b5990800000000000000
+      internalID: -7396292393867222124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 18
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3378628, y: 0.9469733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b311469cfdc13f0800000000000000
+      internalID: -928621367084893439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.350371, y: 0.9469733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aca278e48c55270800000000000000
+      internalID: 8238711332944923222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_56
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 19
+        width: 43
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8474648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f01c5aa2a7059300800000000000000
+      internalID: 258120948867928309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_57
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 25
+        width: 61
+        height: 56
+      alignment: 9
+      pivot: {x: 0.18438621, y: 0.7793304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d8790a2c77ff60800000000000000
+      internalID: 8068053777446918051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_partidos_58
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 25
+        width: 61
+        height: 56
+      alignment: 9
+      pivot: {x: 0.14493549, y: 0.8008174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf229fe054fd000800000000000000
+      internalID: 62844850418154499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
