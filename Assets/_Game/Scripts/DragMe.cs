@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
 public class DragMe : MonoBehaviour
@@ -8,6 +9,11 @@ public class DragMe : MonoBehaviour
     bool canMove;
     bool dragging;
     Collider2D collider;
+
+    public UnityEvent iniciaDrag;
+    public UnityEvent draggeando;
+    public UnityEvent terminaDrag;
+
     void Start()
     {
         collider = GetComponent<Collider2D>();
@@ -34,6 +40,7 @@ public class DragMe : MonoBehaviour
             if (canMove)
             {
                 dragging = true;
+                iniciaDrag.Invoke();
             }
 
 
@@ -41,11 +48,13 @@ public class DragMe : MonoBehaviour
         if (dragging)
         {
             this.transform.position = mousePos;
+            draggeando.Invoke();
         }
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetMouseButtonUp(0) && dragging)
         {
             canMove = false;
             dragging = false;
+            terminaDrag.Invoke();
         }
     }
 }

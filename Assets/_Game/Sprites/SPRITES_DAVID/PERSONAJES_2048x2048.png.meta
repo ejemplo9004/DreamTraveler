@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39d5243fc5d429f47aebc003e3f4d4d9
+guid: 6c762c26214a854498cce1d6a50c6632
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -206,6 +206,21 @@ TextureImporter:
   - first:
       213: 6542403353334731026
     second: PERSONAJES_2048x2048_67
+  - first:
+      213: 4202427042311106194
+    second: PERSONAJES_2048x2048_68
+  - first:
+      213: 2581627570229824235
+    second: PERSONAJES_2048x2048_69
+  - first:
+      213: -8285885267903333430
+    second: PERSONAJES_2048x2048_70
+  - first:
+      213: -5765462763096753184
+    second: PERSONAJES_2048x2048_71
+  - first:
+      213: 7042541642378774292
+    second: PERSONAJES_2048x2048_72
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -294,12 +309,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 7077
-        width: 874
-        height: 1175
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 6605
+        width: 816
+        height: 1085
+      alignment: 9
+      pivot: {x: 0.25759372, y: 0.26614255}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,12 +330,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_1
       rect:
         serializedVersion: 2
-        x: 1090
-        y: 7094
-        width: 828
-        height: 1158
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1016
+        y: 6612
+        width: 770
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.2113573, y: 0.29710603}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,12 +351,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_2
       rect:
         serializedVersion: 2
-        x: 2020
-        y: 7094
-        width: 923
-        height: 1158
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1884
+        y: 6612
+        width: 860
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.16512522, y: 0.32029352}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,12 +372,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_3
       rect:
         serializedVersion: 2
-        x: 2982
-        y: 7094
-        width: 896
-        height: 1158
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2845
+        y: 6612
+        width: 770
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.17476854, y: 0.314497}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,12 +393,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_4
       rect:
         serializedVersion: 2
-        x: 4083
-        y: 7146
-        width: 923
-        height: 959
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3807
+        y: 5925
+        width: 860
+        height: 897
+      alignment: 9
+      pivot: {x: 0.29532754, y: 0.16950709}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,12 +414,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_5
       rect:
         serializedVersion: 2
-        x: 5175
-        y: 7146
-        width: 922
-        height: 959
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4703
+        y: 6661
+        width: 861
+        height: 894
+      alignment: 9
+      pivot: {x: 0.28480577, y: 0.18912323}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,12 +435,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_6
       rect:
         serializedVersion: 2
-        x: 6247
-        y: 7146
-        width: 922
-        height: 959
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5704
+        y: 6661
+        width: 862
+        height: 894
+      alignment: 9
+      pivot: {x: 0.26893422, y: 0.19430426}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,12 +456,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_7
       rect:
         serializedVersion: 2
-        x: 7213
-        y: 6356
-        width: 917
-        height: 961
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6725
+        y: 6661
+        width: 855
+        height: 894
+      alignment: 9
+      pivot: {x: 0.27787772, y: 0.18912323}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,12 +477,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_8
       rect:
         serializedVersion: 2
-        x: 46
-        y: 5587
-        width: 230
-        height: 1079
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 43
+        y: 5208
+        width: 214
+        height: 1010
+      alignment: 9
+      pivot: {x: 0.5292554, y: 0.90911394}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,12 +498,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_9
       rect:
         serializedVersion: 2
-        x: 602
-        y: 5599
-        width: 814
-        height: 1168
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 562
+        y: 5219
+        width: 758
+        height: 1092
+      alignment: 9
+      pivot: {x: 0.51829433, y: 0.03560742}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,12 +519,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_10
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 5611
-        width: 233
-        height: 1084
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1467
+        y: 5230
+        width: 217
+        height: 1010
+      alignment: 9
+      pivot: {x: 0.48557377, y: 0.90911394}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,12 +540,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_11
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 6630
-        width: 182
-        height: 378
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1865
+        y: 6180
+        width: 169
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5185215, y: 0.16301954}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,12 +561,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_12
       rect:
         serializedVersion: 2
-        x: 2460
-        y: 5788
-        width: 358
-        height: 862
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2293
+        y: 5395
+        width: 334
+        height: 804
+      alignment: 9
+      pivot: {x: 0.50937164, y: 0.93996084}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -567,12 +582,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_13
       rect:
         serializedVersion: 2
-        x: 3012
-        y: 5788
-        width: 358
-        height: 862
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2808
+        y: 5395
+        width: 334
+        height: 804
+      alignment: 9
+      pivot: {x: 0.4906269, y: 0.93217385}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -588,12 +603,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_14
       rect:
         serializedVersion: 2
-        x: 4196
-        y: 6360
-        width: 145
-        height: 302
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4784
+        y: 5700
+        width: 270
+        height: 645
+      alignment: 9
+      pivot: {x: 0.5139106, y: 0.90759146}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -609,12 +624,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_15
       rect:
         serializedVersion: 2
-        x: 6267
-        y: 6098
-        width: 286
-        height: 689
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5283
+        y: 5685
+        width: 267
+        height: 642
+      alignment: 9
+      pivot: {x: 0.48593313, y: 0.9036458}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -630,12 +645,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_16
       rect:
         serializedVersion: 2
-        x: 6799
-        y: 6115
-        width: 289
-        height: 692
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7345
+        y: 5929
+        width: 135
+        height: 281
+      alignment: 9
+      pivot: {x: 0.4999964, y: 0.20328313}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -651,12 +666,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_17
       rect:
         serializedVersion: 2
-        x: 4526
-        y: 5732
-        width: 186
-        height: 866
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3431
+        y: 5162
+        width: 335
+        height: 830
+      alignment: 9
+      pivot: {x: 0.48617217, y: 0.90739715}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -672,12 +687,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_18
       rect:
         serializedVersion: 2
-        x: 4865
-        y: 5720
-        width: 652
-        height: 882
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4252
+        y: 5162
+        width: 257
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5180227, y: 0.8823273}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -693,12 +708,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_19
       rect:
         serializedVersion: 2
-        x: 5723
-        y: 5732
-        width: 185
-        height: 866
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4753
+        y: 4952
+        width: 286
+        height: 605
+      alignment: 9
+      pivot: {x: 0.5131324, y: 0.89729387}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -714,12 +729,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_20
       rect:
         serializedVersion: 2
-        x: 6259
-        y: 5293
-        width: 310
-        height: 650
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5263
+        y: 4934
+        width: 289
+        height: 608
+      alignment: 9
+      pivot: {x: 0.47400957, y: 0.8953335}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -735,12 +750,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_21
       rect:
         serializedVersion: 2
-        x: 6815
-        y: 5313
-        width: 306
-        height: 648
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5882
+        y: 5346
+        width: 175
+        height: 804
+      alignment: 9
+      pivot: {x: 0.5214593, y: 0.92975247}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -756,12 +771,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_22
       rect:
         serializedVersion: 2
-        x: 75
-        y: 4346
-        width: 338
-        height: 950
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6249
+        y: 5332
+        width: 608
+        height: 822
+      alignment: 9
+      pivot: {x: 0.512354, y: 0.056813482}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -777,12 +792,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_23
       rect:
         serializedVersion: 2
-        x: 655
-        y: 4974
-        width: 737
-        height: 480
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7000
+        y: 5345
+        width: 172
+        height: 805
+      alignment: 9
+      pivot: {x: 0.45632723, y: 0.93854994}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -798,12 +813,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_24
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 4390
-        width: 351
-        height: 951
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 69
+        y: 4051
+        width: 316
+        height: 886
+      alignment: 9
+      pivot: {x: 0.26225188, y: 0.92044103}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -819,12 +834,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_25
       rect:
         serializedVersion: 2
-        x: 2456
-        y: 4853
-        width: 382
-        height: 810
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 610
+        y: 4637
+        width: 688
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9538099}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -840,12 +855,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_26
       rect:
         serializedVersion: 2
-        x: 3032
-        y: 4853
-        width: 382
-        height: 810
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1474
+        y: 4092
+        width: 327
+        height: 886
+      alignment: 9
+      pivot: {x: 0.30854073, y: 0.92750734}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -861,12 +876,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_27
       rect:
         serializedVersion: 2
-        x: 4426
-        y: 4809
-        width: 282
-        height: 757
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2289
+        y: 4524
+        width: 357
+        height: 755
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.9311989}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -882,12 +897,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_28
       rect:
         serializedVersion: 2
-        x: 4865
-        y: 5196
-        width: 592
-        height: 383
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2827
+        y: 4524
+        width: 356
+        height: 755
+      alignment: 9
+      pivot: {x: 0.49999863, y: 0.918761}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -903,12 +918,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_29
       rect:
         serializedVersion: 2
-        x: 5618
-        y: 4821
-        width: 270
-        height: 757
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3447
+        y: 4269
+        width: 341
+        height: 811
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.8998072}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -924,12 +939,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_30
       rect:
         serializedVersion: 2
-        x: 2524
-        y: 4105
-        width: 419
-        height: 571
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4246
+        y: 4423
+        width: 271
+        height: 604
+      alignment: 9
+      pivot: {x: 0.4999982, y: 0.8681099}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -945,12 +960,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_31
       rect:
         serializedVersion: 2
-        x: 3157
-        y: 4124
-        width: 418
-        height: 572
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5903
+        y: 4494
+        width: 252
+        height: 706
+      alignment: 9
+      pivot: {x: 0.29135084, y: 0.9202518}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -966,12 +981,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_32
       rect:
         serializedVersion: 2
-        x: 6170
-        y: 4583
-        width: 334
-        height: 456
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6301
+        y: 4843
+        width: 552
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8682024}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -987,12 +1002,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_33
       rect:
         serializedVersion: 2
-        x: 6762
-        y: 4620
-        width: 335
-        height: 459
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7003
+        y: 4483
+        width: 263
+        height: 709
+      alignment: 9
+      pivot: {x: 0.31435844, y: 0.91847354}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1008,12 +1023,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_34
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2702
-        width: 663
-        height: 1112
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2353
+        y: 3826
+        width: 391
+        height: 533
+      alignment: 9
+      pivot: {x: 0.34310123, y: 0.8596306}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1029,12 +1044,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_35
       rect:
         serializedVersion: 2
-        x: 945
-        y: 2706
-        width: 673
-        height: 1128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2943
+        y: 3847
+        width: 391
+        height: 533
+      alignment: 9
+      pivot: {x: 0.26782477, y: 0.91111356}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1050,12 +1065,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_36
       rect:
         serializedVersion: 2
-        x: 2029
-        y: 2686
-        width: 676
-        height: 1128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4781
+        y: 4306
+        width: 312
+        height: 428
+      alignment: 9
+      pivot: {x: 0.29536477, y: 0.89487123}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1071,12 +1086,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_37
       rect:
         serializedVersion: 2
-        x: 3060
-        y: 2669
-        width: 673
-        height: 1128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5325
+        y: 4272
+        width: 315
+        height: 425
+      alignment: 9
+      pivot: {x: 0.29731214, y: 0.8976585}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1092,12 +1107,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_38
       rect:
         serializedVersion: 2
-        x: 4511
-        y: 2923
-        width: 607
-        height: 918
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2518
+        width: 618
+        height: 1037
+      alignment: 9
+      pivot: {x: 0.30779055, y: 0.37060407}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1113,12 +1128,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_39
       rect:
         serializedVersion: 2
-        x: 5288
-        y: 2923
-        width: 606
-        height: 918
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 881
+        y: 2522
+        width: 627
+        height: 1052
+      alignment: 9
+      pivot: {x: 0.3334784, y: 0.36816314}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1134,12 +1149,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_40
       rect:
         serializedVersion: 2
-        x: 6134
-        y: 2923
-        width: 608
-        height: 918
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1897
+        y: 2503
+        width: 631
+        height: 1052
+      alignment: 9
+      pivot: {x: 0.3493521, y: 0.3652005}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1155,12 +1170,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_41
       rect:
         serializedVersion: 2
-        x: 6952
-        y: 2922
-        width: 617
-        height: 924
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2853
+        y: 2635
+        width: 627
+        height: 1051
+      alignment: 9
+      pivot: {x: 0.36330345, y: 0.3532104}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1176,12 +1191,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_42
       rect:
         serializedVersion: 2
-        x: 345
-        y: 1755
-        width: 217
-        height: 697
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4010
+        y: 2732
+        width: 563
+        height: 853
+      alignment: 9
+      pivot: {x: 0.26827976, y: 0.09649708}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1197,12 +1212,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_43
       rect:
         serializedVersion: 2
-        x: 610
-        y: 1477
-        width: 903
-        height: 865
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4769
+        y: 2725
+        width: 567
+        height: 856
+      alignment: 9
+      pivot: {x: 0.27970594, y: 0.10763921}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1218,12 +1233,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_44
       rect:
         serializedVersion: 2
-        x: 1602
-        y: 1759
-        width: 217
-        height: 700
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5561
+        y: 2725
+        width: 563
+        height: 856
+      alignment: 9
+      pivot: {x: 0.27813992, y: 0.11088177}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1239,12 +1254,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_45
       rect:
         serializedVersion: 2
-        x: 2105
-        y: 2194
-        width: 129
-        height: 226
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6282
+        y: 2721
+        width: 579
+        height: 860
+      alignment: 9
+      pivot: {x: 0.26030114, y: 0.10623666}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1260,12 +1275,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_46
       rect:
         serializedVersion: 2
-        x: 2512
-        y: 1634
-        width: 286
-        height: 1035
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 205
+        y: 1636
+        width: 203
+        height: 649
+      alignment: 9
+      pivot: {x: 0.5233183, y: 0.87197554}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1281,12 +1296,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_47
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 1634
-        width: 288
-        height: 1035
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1493
+        y: 1639
+        width: 203
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5116604, y: 0.8641207}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1302,12 +1317,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_48
       rect:
         serializedVersion: 2
-        x: 4635
-        y: 2262
-        width: 129
-        height: 202
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2342
+        y: 1523
+        width: 267
+        height: 965
+      alignment: 9
+      pivot: {x: 0.51167303, y: 0.9343988}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1323,12 +1338,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_49
       rect:
         serializedVersion: 2
-        x: 5074
-        y: 1751
-        width: 181
-        height: 765
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2958
+        y: 1523
+        width: 270
+        height: 965
+      alignment: 9
+      pivot: {x: 0.50577164, y: 0.93601364}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1344,12 +1359,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_50
       rect:
         serializedVersion: 2
-        x: 5312
-        y: 1674
-        width: 524
-        height: 874
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4277
+        y: 1786
+        width: 228
+        height: 736
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8809045}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1365,12 +1380,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_51
       rect:
         serializedVersion: 2
-        x: 5892
-        y: 1727
-        width: 181
-        height: 765
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4810
+        y: 1790
+        width: 225
+        height: 736
+      alignment: 9
+      pivot: {x: 0.51233506, y: 0.89599013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1386,12 +1401,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_52
       rect:
         serializedVersion: 2
-        x: 6456
-        y: 1920
-        width: 245
-        height: 790
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5546
+        y: 1609
+        width: 169
+        height: 714
+      alignment: 9
+      pivot: {x: 0.51642245, y: 0.91596675}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1407,12 +1422,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_53
       rect:
         serializedVersion: 2
-        x: 7025
-        y: 1916
-        width: 245
-        height: 790
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5925
+        y: 1561
+        width: 485
+        height: 813
+      alignment: 9
+      pivot: {x: 0.51144594, y: 0.0561597}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1428,12 +1443,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_54
       rect:
         serializedVersion: 2
-        x: 353
-        y: 0
-        width: 1254
-        height: 1714
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6620
+        y: 1632
+        width: 169
+        height: 713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.91265726}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1449,12 +1464,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_55
       rect:
         serializedVersion: 2
-        x: 1630
-        y: 844
-        width: 245
-        height: 862
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6925
+        y: 2274
+        width: 120
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1899466}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1470,12 +1485,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_56
       rect:
         serializedVersion: 2
-        x: 2512
-        y: 433
-        width: 286
-        height: 1032
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 569
+        y: 1414
+        width: 841
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5056286, y: 0.0723392}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1491,12 +1506,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_57
       rect:
         serializedVersion: 2
-        x: 3049
-        y: 405
-        width: 288
-        height: 1035
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1963
+        y: 2045
+        width: 120
+        height: 210
+      alignment: 9
+      pivot: {x: 0.48701477, y: 0.10670456}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1512,12 +1527,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_58
       rect:
         serializedVersion: 2
-        x: 4978
-        y: 864
-        width: 245
-        height: 657
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 213
+        y: 768
+        width: 242
+        height: 830
+      alignment: 9
+      pivot: {x: 0.382639, y: 0.9362869}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1533,12 +1548,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_59
       rect:
         serializedVersion: 2
-        x: 5304
-        y: 1271
-        width: 552
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 558
+        y: 333
+        width: 868
+        height: 863
+      alignment: 9
+      pivot: {x: 0.48909342, y: 0.5219401}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1554,12 +1569,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_60
       rect:
         serializedVersion: 2
-        x: 5811
-        y: 856
-        width: 242
-        height: 657
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1519
+        y: 787
+        width: 229
+        height: 804
+      alignment: 9
+      pivot: {x: 0.34497178, y: 0.92978895}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1575,12 +1590,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_61
       rect:
         serializedVersion: 2
-        x: 6500
-        y: 941
-        width: 242
-        height: 786
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2335
+        y: 405
+        width: 267
+        height: 965
+      alignment: 9
+      pivot: {x: 0.51870555, y: 0.9036954}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1596,12 +1611,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_62
       rect:
         serializedVersion: 2
-        x: 7068
-        y: 937
-        width: 242
-        height: 786
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2958
+        y: 377
+        width: 270
+        height: 964
+      alignment: 9
+      pivot: {x: 0.5092493, y: 0.9067046}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1617,12 +1632,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_63
       rect:
         serializedVersion: 2
-        x: 6235
-        y: 510
-        width: 382
-        height: 390
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4239
+        y: 873
+        width: 225
+        height: 733
+      alignment: 9
+      pivot: {x: 0.5, y: 0.89761114}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1638,12 +1653,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_64
       rect:
         serializedVersion: 2
-        x: 7016
-        y: 506
-        width: 383
-        height: 390
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4769
+        y: 877
+        width: 225
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8867783}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1659,12 +1674,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_65
       rect:
         serializedVersion: 2
-        x: 2320
-        y: 0
-        width: 623
-        height: 284
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5569
+        y: 798
+        width: 224
+        height: 612
+      alignment: 9
+      pivot: {x: 0.2273843, y: 0.90819174}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1680,12 +1695,12 @@ TextureImporter:
       name: PERSONAJES_2048x2048_66
       rect:
         serializedVersion: 2
-        x: 2980
-        y: 0
-        width: 587
-        height: 288
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5903
+        y: 1182
+        width: 518
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49999905, y: 0.89785033}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1693,6 +1708,111 @@ TextureImporter:
       bones: []
       spriteID: b48438b39a537a140800000000000000
       internalID: 4730808934540200011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2048_67
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 806
+        width: 229
+        height: 612
+      alignment: 9
+      pivot: {x: 0.24545835, y: 0.91726243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21157dccf294bca50800000000000000
+      internalID: 6542403353334731026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2048_68
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 355
+        width: 357
+        height: 364
+      alignment: 9
+      pivot: {x: 0.45334932, y: 0.88890326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee27b2125025a30800000000000000
+      internalID: 4202427042311106194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2048_69
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 359
+        width: 357
+        height: 364
+      alignment: 9
+      pivot: {x: 0.49222443, y: 0.835524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea47e9d898c3d320800000000000000
+      internalID: 2581627570229824235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2048_70
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 0
+        width: 585
+        height: 265
+      alignment: 9
+      pivot: {x: 0.35030675, y: 0.43748063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbbaf4df3f920d80800000000000000
+      internalID: -8285885267903333430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2048_71
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 0
+        width: 475
+        height: 268
+      alignment: 9
+      pivot: {x: 0.20602179, y: 0.45584318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb30e7e926fcffa0800000000000000
+      internalID: -5765462763096753184
       vertices: []
       indices: 
       edges: []
