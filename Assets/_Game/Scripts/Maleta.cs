@@ -22,7 +22,8 @@ public class Maleta : MonoBehaviour
 
 	}
 
-    public void Desactivar()
+
+	public void Desactivar()
 	{
         drag.enabled = false;
         movedor.enabled = false;
@@ -36,6 +37,10 @@ public class Maleta : MonoBehaviour
 			{
                 movedor.activo = true;
 			}
+		}
+		else if (collision.CompareTag("Personaje"))
+		{
+			pm = collision.gameObject.GetComponent<PersonajeMaletas>();
 		}
 	}
 
@@ -55,9 +60,14 @@ public class Maleta : MonoBehaviour
 	{
 		if (collision.gameObject.name == "Destructor")
 		{
-			CreadorMaletas.singleton.DevolverMaleta(palabra);
-			Destroy(gameObject);
+			Devolverla();
 		}
+	}
+
+	void Devolverla()
+	{
+		CreadorMaletas.singleton.DevolverMaleta(palabra);
+		Destroy(gameObject);
 	}
 
 	public void IniciarDrag()
@@ -74,9 +84,11 @@ public class Maleta : MonoBehaviour
 		}
 		else
 		{
-			if (pm.tipo == palabra.tipo)
+			if (pm.tipo == palabra.tipo && !pm.devolviendose)
 			{
+				/////////////////////////////////// Acertó
 				pm.Devolver();
+				Destroy(gameObject);
 			}
 			else
 			{
@@ -86,7 +98,13 @@ public class Maleta : MonoBehaviour
 
 		void RestablecerPosicion()
 		{
+			print(gameObject.name);
 			transform.position = posicionInicial + movedor.velocidad * (Time.time - tInicial);
+		}
+
+		if (transform.position.x < -30)
+		{
+			Devolverla();
 		}
 	}
 }
@@ -100,7 +118,8 @@ public class Palabra
 public enum TipoPalabra
 {
     sustantivo,
-    vervo,
+    verbo,
     pronombre,
-    articulo
+    articulo, 
+	adjetivo
 }

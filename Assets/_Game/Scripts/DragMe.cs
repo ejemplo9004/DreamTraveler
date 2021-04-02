@@ -50,7 +50,7 @@ public class DragMe : MonoBehaviour
             this.transform.position = mousePos;
             draggeando.Invoke();
         }
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetMouseButtonUp(0) && dragging)
         {
             canMove = false;
             dragging = false;

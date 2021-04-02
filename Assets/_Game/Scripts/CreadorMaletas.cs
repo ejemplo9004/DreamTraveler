@@ -5,12 +5,16 @@ using UnityEngine;
 public class CreadorMaletas : MonoBehaviour
 {
     public List<Palabra> palabrasPosibles;
-    public GameObject prMaleta;
-    public GameObject prPersonaje;
+    public GameObject[] prMaleta;
+    public GameObject[] prPersonajes;
     public float periodo = 5;
 
-    public Transform posInicial;
-    public Transform posFinal;
+    public Transform posInicial0;
+    public Transform posFinal0;
+
+    public Transform posInicial1;
+    public Transform posFinal1;
+    
 
     List<Palabra> palabrasBarajadas;
 
@@ -24,15 +28,40 @@ public class CreadorMaletas : MonoBehaviour
     {
         Barajar();
         StartCoroutine(CrearMaletas());
-        CrearPersonaje(palabrasBarajadas[0].tipo, posInicial.position, posFinal.position);
+        CrearPersonaje(0);
+        CrearPersonaje(1);
     }
 
-    public void CrearPersonaje(TipoPalabra t, Vector3 pInicial, Vector3 pFinal)
+    int getNumeroPalabras()
 	{
-        GameObject go = Instantiate(prPersonaje, pInicial, Quaternion.identity) as GameObject;
+        return Random.Range(0, palabrasBarajadas.Count);
+	}
+
+    public void CrearPersonaje(int cual)
+	{
+		if (palabrasBarajadas.Count==0)
+		{
+            CrearPersonaje(TipoPalabra.sustantivo, posInicial0.position, posFinal0.position, cual);
+            return;
+        }
+		if (cual == 0)
+		{
+            CrearPersonaje(palabrasBarajadas[getNumeroPalabras()].tipo, posInicial0.position, posFinal0.position, 0);
+		}
+		else
+		{
+            CrearPersonaje(palabrasBarajadas[getNumeroPalabras()].tipo, posInicial1.position, posFinal1.position, 1);
+		}
+    }
+
+    void CrearPersonaje(TipoPalabra t, Vector3 pInicial, Vector3 pFinal, int i)
+	{
+        GameObject go = Instantiate(prPersonajes[Random.Range(0,prPersonajes.Length)], pInicial, Quaternion.identity) as GameObject;
         PersonajeMaletas pm = go.GetComponent<PersonajeMaletas>();
         pm.posicionInicial = pInicial;
         pm.posObjetivo = pFinal;
+        pm.tipo = t;
+        pm.cualEra = i;
 	}
 
     public void DevolverMaleta(Palabra p)
@@ -72,7 +101,7 @@ public class CreadorMaletas : MonoBehaviour
 		{
             return;
 		}
-        GameObject GOM = Instantiate(prMaleta, transform.position, transform.rotation);
+        GameObject GOM = Instantiate(prMaleta[Random.Range(0,prMaleta.Length)], transform.position, transform.rotation);
         Maleta m = GOM.GetComponent<Maleta>();
         m.Inicializar(palabrasBarajadas[0]);
         palabrasBarajadas.RemoveAt(0);
