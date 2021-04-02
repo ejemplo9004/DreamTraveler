@@ -121,37 +121,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &302420789
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 302420790}
-  m_Layer: 0
-  m_Name: Moreno
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &302420790
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 302420789}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1789536565}
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &404006729
 GameObject:
   m_ObjectHideFlags: 0
@@ -235,17 +204,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1789536564
+--- !u!1001 &1414286651
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 302420790}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1107813783590745041, guid: 8d10a30ed622ecc4faef0c266aefda7f,
         type: 3}
       propertyPath: m_Name
-      value: Wensel Dashinton 1
+      value: MORENO
       objectReference: {fileID: 0}
     - target: {fileID: 7705174069825361470, guid: 8d10a30ed622ecc4faef0c266aefda7f,
         type: 3}
@@ -285,7 +254,7 @@ PrefabInstance:
     - target: {fileID: 7705174069825361470, guid: 8d10a30ed622ecc4faef0c266aefda7f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7705174069825361470, guid: 8d10a30ed622ecc4faef0c266aefda7f,
         type: 3}
@@ -304,9 +273,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d10a30ed622ecc4faef0c266aefda7f, type: 3}
---- !u!4 &1789536565 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7705174069825361470, guid: 8d10a30ed622ecc4faef0c266aefda7f,
-    type: 3}
-  m_PrefabInstance: {fileID: 1789536564}
-  m_PrefabAsset: {fileID: 0}
