@@ -14,6 +14,6 @@ public class UIBienMal : MonoBehaviour
 	public void Cerrar()
 	{
 		animator.SetTrigger("cerrar");
-		Destroy(gameObject, 2);
+		Destroy(gameObject, 1);
 	}
 }

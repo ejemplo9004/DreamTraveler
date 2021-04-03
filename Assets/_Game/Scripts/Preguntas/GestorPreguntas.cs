@@ -31,6 +31,7 @@ public class GestorPreguntas : MonoBehaviour
 		{
 			CrearPregunta(preguntas[i]);
 			yield return new WaitUntil(() => !enEspera);
+			yield return new WaitForSeconds(1);
 		}
 	}
 
