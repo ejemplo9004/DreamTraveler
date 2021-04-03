@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: a56abf7083ea91549a68ae0317d741eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2757856513719867848
+    second: PERSONAJES_2048x2049_0
+  - first:
+      213: -431764307364614457
+    second: PERSONAJES_2048x2049_1
+  - first:
+      213: 6828539872561564564
+    second: PERSONAJES_2048x2049_2
+  - first:
+      213: 513215571815051283
+    second: PERSONAJES_2048x2049_3
+  - first:
+      213: -6163214625320390098
+    second: PERSONAJES_2048x2049_4
+  - first:
+      213: 8182088575998315521
+    second: PERSONAJES_2048x2049_5
+  - first:
+      213: -2760270684868157413
+    second: PERSONAJES_2048x2049_6
+  - first:
+      213: -4814816544695114652
+    second: PERSONAJES_2048x2049_7
+  - first:
+      213: -4043017588999125478
+    second: PERSONAJES_2048x2049_8
+  - first:
+      213: 7128615275778074897
+    second: PERSONAJES_2048x2049_9
+  - first:
+      213: -7147002102504695612
+    second: PERSONAJES_2048x2049_10
+  - first:
+      213: -17191480610031635
+    second: PERSONAJES_2048x2049_11
+  - first:
+      213: 749662641117916929
+    second: PERSONAJES_2048x2049_12
+  - first:
+      213: 1881027133859082991
+    second: PERSONAJES_2048x2049_13
+  - first:
+      213: -7177307238331449375
+    second: PERSONAJES_2048x2049_14
+  - first:
+      213: 3357188091293668724
+    second: PERSONAJES_2048x2049_15
+  - first:
+      213: 388481464795827879
+    second: PERSONAJES_2048x2049_16
+  - first:
+      213: -8556798633290064742
+    second: PERSONAJES_2048x2049_17
+  - first:
+      213: 6672275500608736495
+    second: PERSONAJES_2048x2049_18
+  - first:
+      213: -179583604056712097
+    second: PERSONAJES_2048x2049_19
+  - first:
+      213: 1568552521076988023
+    second: PERSONAJES_2048x2049_20
+  - first:
+      213: -8601325643469193856
+    second: PERSONAJES_2048x2049_21
+  - first:
+      213: 8162092061198469219
+    second: PERSONAJES_2048x2049_22
+  - first:
+      213: 6018393255489133077
+    second: PERSONAJES_2048x2049_23
+  - first:
+      213: -4983501715720909950
+    second: PERSONAJES_2048x2049_24
+  - first:
+      213: -8616285596303451740
+    second: PERSONAJES_2048x2049_25
+  - first:
+      213: -4017934112422134176
+    second: PERSONAJES_2048x2049_26
+  - first:
+      213: -3035831617469818075
+    second: PERSONAJES_2048x2049_27
+  - first:
+      213: 7771868811520833252
+    second: PERSONAJES_2048x2049_28
+  - first:
+      213: -3514571627174852653
+    second: PERSONAJES_2048x2049_29
+  - first:
+      213: -4844943561101266267
+    second: PERSONAJES_2048x2049_30
+  - first:
+      213: -7568159847995132739
+    second: PERSONAJES_2048x2049_31
+  - first:
+      213: 2487517357984122373
+    second: PERSONAJES_2048x2049_32
+  - first:
+      213: -8734136390034848140
+    second: PERSONAJES_2048x2049_33
+  - first:
+      213: -8136934088780742254
+    second: PERSONAJES_2048x2049_34
+  - first:
+      213: 3615181936277568574
+    second: PERSONAJES_2048x2049_35
+  - first:
+      213: 5882127931691700210
+    second: PERSONAJES_2048x2049_36
+  - first:
+      213: 1505641541764634916
+    second: PERSONAJES_2048x2049_37
+  - first:
+      213: -1593514365127608880
+    second: PERSONAJES_2048x2049_38
+  - first:
+      213: 2484214386734703805
+    second: PERSONAJES_2048x2049_39
+  - first:
+      213: -939390023046373954
+    second: PERSONAJES_2048x2049_40
+  - first:
+      213: -6628500160499252093
+    second: PERSONAJES_2048x2049_41
+  - first:
+      213: -4960163148563100671
+    second: PERSONAJES_2048x2049_42
+  - first:
+      213: -1814703987098631080
+    second: PERSONAJES_2048x2049_43
+  - first:
+      213: 929952923693703912
+    second: PERSONAJES_2048x2049_44
+  - first:
+      213: -4055938685823695060
+    second: PERSONAJES_2048x2049_45
+  - first:
+      213: 8953223367279887001
+    second: PERSONAJES_2048x2049_46
+  - first:
+      213: 930182431713663172
+    second: PERSONAJES_2048x2049_47
+  - first:
+      213: 6830269718385522111
+    second: PERSONAJES_2048x2049_48
+  - first:
+      213: -3686983337443508315
+    second: PERSONAJES_2048x2049_49
+  - first:
+      213: 8627271674706332233
+    second: PERSONAJES_2048x2049_50
+  - first:
+      213: 1417869162577567815
+    second: PERSONAJES_2048x2049_51
+  - first:
+      213: 1239738938695215062
+    second: PERSONAJES_2048x2049_52
+  - first:
+      213: 5089802726203053201
+    second: PERSONAJES_2048x2049_53
+  - first:
+      213: 4849328725997972162
+    second: PERSONAJES_2048x2049_54
+  - first:
+      213: 5372390505918856137
+    second: PERSONAJES_2048x2049_55
+  - first:
+      213: -2864175448799226719
+    second: PERSONAJES_2048x2049_56
+  - first:
+      213: -7030702819759809987
+    second: PERSONAJES_2048x2049_57
+  - first:
+      213: -7122634496722398072
+    second: PERSONAJES_2048x2049_58
+  - first:
+      213: 1668194442726172107
+    second: PERSONAJES_2048x2049_59
+  - first:
+      213: 7321152819840806113
+    second: PERSONAJES_2048x2049_60
+  - first:
+      213: -1934307860154561674
+    second: PERSONAJES_2048x2049_61
+  - first:
+      213: 2845085199733100726
+    second: PERSONAJES_2048x2049_62
+  - first:
+      213: -5745510310602243141
+    second: PERSONAJES_2048x2049_63
+  - first:
+      213: -2154689037529516387
+    second: PERSONAJES_2048x2049_64
+  - first:
+      213: -3022990034421729759
+    second: PERSONAJES_2048x2049_65
+  - first:
+      213: -4425908590117398424
+    second: PERSONAJES_2048x2049_66
+  - first:
+      213: 7341338332512043807
+    second: PERSONAJES_2048x2049_67
+  - first:
+      213: -6521457602101440343
+    second: PERSONAJES_2048x2049_68
+  - first:
+      213: 2508950162040009785
+    second: PERSONAJES_2048x2049_69
+  - first:
+      213: 4665594889555025349
+    second: PERSONAJES_2048x2049_70
+  - first:
+      213: 2903368397787575562
+    second: PERSONAJES_2048x2049_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_42
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 2732
+        width: 563
+        height: 853
+      alignment: 9
+      pivot: {x: 0.27639234, y: 0.095542274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc9ed75e5f92bb0800000000000000
+      internalID: -4960163148563100671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_43
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 2725
+        width: 567
+        height: 856
+      alignment: 9
+      pivot: {x: 0.27967665, y: 0.07839994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8544084a650e0d6e0800000000000000
+      internalID: -1814703987098631080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_44
+      rect:
+        serializedVersion: 2
+        x: 5561
+        y: 2725
+        width: 563
+        height: 856
+      alignment: 9
+      pivot: {x: 0.25345787, y: 0.10388126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2699ac14bd7ec00800000000000000
+      internalID: 929952923693703912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_45
+      rect:
+        serializedVersion: 2
+        x: 6282
+        y: 2710
+        width: 599
+        height: 871
+      alignment: 9
+      pivot: {x: 0.25172243, y: 0.10615016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27c6b8214966b7c0800000000000000
+      internalID: -4055938685823695060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_50
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 1786
+        width: 228
+        height: 736
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9149021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a09aff0e93ab770800000000000000
+      internalID: 8627271674706332233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_51
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 1790
+        width: 225
+        height: 736
+      alignment: 9
+      pivot: {x: 0.5088151, y: 0.92567873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740aa6dbd784da310800000000000000
+      internalID: 1417869162577567815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_52
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 1609
+        width: 169
+        height: 714
+      alignment: 9
+      pivot: {x: 0.5351996, y: 0.8971371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e52f0fff643110800000000000000
+      internalID: 1239738938695215062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_53
+      rect:
+        serializedVersion: 2
+        x: 5925
+        y: 1561
+        width: 485
+        height: 813
+      alignment: 9
+      pivot: {x: 0.49591252, y: 0.029272402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d520dc9c92a640800000000000000
+      internalID: 5089802726203053201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_54
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 1632
+        width: 169
+        height: 713
+      alignment: 9
+      pivot: {x: 0.5234664, y: 0.9088184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae43098c64c4340800000000000000
+      internalID: 4849328725997972162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_55
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 2274
+        width: 120
+        height: 188
+      alignment: 9
+      pivot: {x: 0.48347983, y: 0.16248338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb79f373b09e8a40800000000000000
+      internalID: 5372390505918856137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_57
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2045
+        width: 120
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a11e2290ded6e90800000000000000
+      internalID: -7030702819759809987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_63
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 873
+        width: 225
+        height: 733
+      alignment: 9
+      pivot: {x: 0.48615018, y: 0.8826495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3853340d8d340b0800000000000000
+      internalID: -5745510310602243141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_64
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 877
+        width: 225
+        height: 732
+      alignment: 9
+      pivot: {x: 0.513852, y: 0.89594454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ff948cb10912e0800000000000000
+      internalID: -2154689037529516387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_65
+      rect:
+        serializedVersion: 2
+        x: 5569
+        y: 798
+        width: 224
+        height: 612
+      alignment: 9
+      pivot: {x: 0.23400442, y: 0.9438355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1263fb6849e2c06d0800000000000000
+      internalID: -3022990034421729759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_66
+      rect:
+        serializedVersion: 2
+        x: 5903
+        y: 1185
+        width: 518
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.92302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d3b536930492c0800000000000000
+      internalID: -4425908590117398424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_67
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 806
+        width: 229
+        height: 612
+      alignment: 9
+      pivot: {x: 0.23215961, y: 0.93238163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c65d315ca1e560800000000000000
+      internalID: 7341338332512043807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_68
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 355
+        width: 357
+        height: 364
+      alignment: 9
+      pivot: {x: 0.47381198, y: 0.876716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a019f0fcd02f75a0800000000000000
+      internalID: -6521457602101440343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2049_69
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 359
+        width: 357
+        height: 364
+      alignment: 9
+      pivot: {x: 0.47381198, y: 0.85959196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934bd8f11e491d220800000000000000
+      internalID: 2508950162040009785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
