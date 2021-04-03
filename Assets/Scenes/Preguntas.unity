@@ -781,26 +781,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   preguntas:
-  - pregunta: "Pablito clav\xF3 un ____________ en la cabeza de un calvito."
+  - pregunta: Necesitamos ___________ esta pena, ya que el acusado, realmente es
+      inocente.
     respuestas:
-    - Clavito
-    - Rinoceronte
-    - Destornillador
-    - Sapo
+    - absolver
+    - absorber
     correcta: 0
-  - pregunta: "El _____________ representa una persona, animal, cosa o incluso situaci\xF3n."
+  - pregunta: 'Los estudiantes del Pascual Bravo, tienes notorias _____________ para
+      el trabajo en equipo. '
     respuestas:
-    - Verbo
-    - Adjetivo
-    - Sustantivo
-    correcta: 2
-  - pregunta: Tres tristes ___________ comen en tres tristes platos
+    - aptitudes
+    - actitudes
+    correcta: 0
+  - pregunta: "Desde la ciencia y la ingenier\xEDa, se considera importante ____________ 
+      la informaci\xF3n, con datos que permitan un an\xE1lisis comparativo."
     respuestas:
-    - Caballos
-    - Perros
-    - Tigres
-    - Tigrillos
-    correcta: 2
+    - cortejar
+    - cotejar
+    correcta: 1
+  - pregunta: "Despu\xE9s de mucho debatir, la asamblea de estudiantes, decidi\xF3
+      ____________ a su representante por dos a\xF1os mes."
+    respuestas:
+    - rectificar
+    - ratificar
+    correcta: 1
   indice: 0
   botones: []
   txtPregunta: {fileID: 216662796}
@@ -808,6 +812,8 @@ MonoBehaviour:
   prBotonRespuesta: {fileID: 8938394740279632322, guid: ab7f2a49baafd18488af56a546346328,
     type: 3}
   enEspera: 0
+  prBien: {fileID: 8275403769857407073, guid: ef967ee444e800045ad92e1b9f4d0a9a, type: 3}
+  prMal: {fileID: 8275403769857407073, guid: a50f8bbbf8c9dfe418a47090390bf465, type: 3}
 --- !u!4 &1403814020
 Transform:
   m_ObjectHideFlags: 0
