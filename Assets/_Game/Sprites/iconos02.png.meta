@@ -10,7 +10,7 @@ TextureImporter:
     second: iconos02_1
   - first:
       213: 2493994606806804956
-    second: iconos02_2
+    second: botonAzul
   - first:
       213: -377126572022062875
     second: iconos02_3
@@ -547,6 +547,27 @@ TextureImporter:
       bones: []
       spriteID: 616644b030dfdc9b0800000000000000
       internalID: -5058108616951437802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonAzul
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1936
+        width: 239
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5059799, y: 0.48582727}
+      border: {x: 19, y: 22, z: 25, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a57291e27c9220800000000000000
+      internalID: 2493994606806804956
       vertices: []
       indices: 
       edges: []

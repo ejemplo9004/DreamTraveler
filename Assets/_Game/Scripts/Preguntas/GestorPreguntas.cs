@@ -15,6 +15,8 @@ public class GestorPreguntas : MonoBehaviour
 	public Transform padreRespuestas;
 	public GameObject prBotonRespuesta;
 	public bool enEspera;
+	public GameObject prBien;
+	public GameObject prMal;
 
 	int i;
 
@@ -29,6 +31,7 @@ public class GestorPreguntas : MonoBehaviour
 		{
 			CrearPregunta(preguntas[i]);
 			yield return new WaitUntil(() => !enEspera);
+			yield return new WaitForSeconds(1);
 		}
 	}
 
@@ -64,9 +67,11 @@ public class GestorPreguntas : MonoBehaviour
 		if (preguntas[i].correcta == cual)
 		{
 			print("Respuesta correcta");
+			Instantiate(prBien);
 		}
 		else
 		{
+			Instantiate(prMal);
 			print("Respuesta MALA!!!!!! aprenda..");
 		}
 		enEspera = false;

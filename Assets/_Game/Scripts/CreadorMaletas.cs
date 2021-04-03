@@ -14,7 +14,10 @@ public class CreadorMaletas : MonoBehaviour
 
     public Transform posInicial1;
     public Transform posFinal1;
-    
+
+    public GameObject personajeInstanciado0;
+    public GameObject personajeInstanciado1;
+
 
     List<Palabra> palabrasBarajadas;
 
@@ -46,22 +49,46 @@ public class CreadorMaletas : MonoBehaviour
         }
 		if (cual == 0)
 		{
-            CrearPersonaje(palabrasBarajadas[getNumeroPalabras()].tipo, posInicial0.position, posFinal0.position, 0);
+            StartCoroutine(CrearPersonaje(palabrasBarajadas[getNumeroPalabras()].tipo, posInicial0.position, posFinal0.position, 0));
 		}
 		else
 		{
-            CrearPersonaje(palabrasBarajadas[getNumeroPalabras()].tipo, posInicial1.position, posFinal1.position, 1);
+            StartCoroutine(CrearPersonaje(palabrasBarajadas[getNumeroPalabras()].tipo, posInicial1.position, posFinal1.position, 1));
 		}
     }
 
-    void CrearPersonaje(TipoPalabra t, Vector3 pInicial, Vector3 pFinal, int i)
+    IEnumerator CrearPersonaje(TipoPalabra t, Vector3 pInicial, Vector3 pFinal, int i)
 	{
+        int i2 = i;
+        bool logrado = false;
+		while (!logrado)
+		{
+		    if (i2 == 0 && personajeInstanciado0 == null)
+		    {
+                logrado = true;
+			}
+            else if (i2 == 0 && personajeInstanciado0 != null)
+            {
+                i2 = 1;
+			}
+            yield return new WaitForSeconds(0.1f);
+            if (i2 == 1 && personajeInstanciado1 == null)
+            {
+                logrado = true;
+            }
+            else if (i2 == 0 && personajeInstanciado1 != null)
+            {
+                i2 = 0;
+            }
+            yield return new WaitForSeconds(0.1f);
+
+        }
         GameObject go = Instantiate(prPersonajes[Random.Range(0,prPersonajes.Length)], pInicial, Quaternion.identity) as GameObject;
         PersonajeMaletas pm = go.GetComponent<PersonajeMaletas>();
         pm.posicionInicial = pInicial;
         pm.posObjetivo = pFinal;
         pm.tipo = t;
-        pm.cualEra = i;
+        pm.cualEra = i2;
 	}
 
     public void DevolverMaleta(Palabra p)
