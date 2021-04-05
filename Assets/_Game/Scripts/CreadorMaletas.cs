@@ -18,6 +18,7 @@ public class CreadorMaletas : MonoBehaviour
     public GameObject personajeInstanciado0;
     public GameObject personajeInstanciado1;
 
+    public GameObject cnvFinal;
 
     List<Palabra> palabrasBarajadas;
 
@@ -44,7 +45,7 @@ public class CreadorMaletas : MonoBehaviour
 	{
 		if (palabrasBarajadas.Count==0)
 		{
-            CrearPersonaje(TipoPalabra.sustantivo, posInicial0.position, posFinal0.position, cual);
+            CrearPersonaje(TipoPalabra.SUSTANTIVO, posInicial0.position, posFinal0.position, cual);
             return;
         }
 		if (cual == 0)
@@ -103,6 +104,7 @@ public class CreadorMaletas : MonoBehaviour
             SiguientePalabra();
             yield return new WaitForSeconds(periodo);
 		}
+        Instantiate(cnvFinal);
 	}
 
     public void Barajar()
