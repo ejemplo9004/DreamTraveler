@@ -1817,6 +1817,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: PERSONAJES_2048x2048_72
+      rect:
+        serializedVersion: 2
+        x: 5435
+        y: 9
+        width: 1596
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41702ed8f422cb160800000000000000
+      internalID: 7042541642378774292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
