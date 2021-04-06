@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 2e74cf82a370ebf4aaad6b62dc327e41
+guid: 1991e7de4d8c2cd468b6bccd348007a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1818536864267488303
-    second: cabezas_moreno_600x600_0
+      213: 1424056876464111028
+    second: Letra_O
   - first:
-      213: -4680643819363621091
-    second: cabezas_moreno_600x600_1
+      213: -2623844737196640620
+    second: Letra_S
   - first:
-      213: 6651848296740051562
-    second: cabezas_moreno_600x600_2
+      213: 4260435754825762164
+    second: Letra_L
+  - first:
+      213: -9166667364283484505
+    second: Letra_A
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -96,64 +99,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cabezas_moreno_600x600_0
+      name: Letra_O
       rect:
         serializedVersion: 2
         x: 0
-        y: 1201
-        width: 763
+        y: 1189
+        width: 764
+        height: 1077
+      alignment: 9
+      pivot: {x: 0.24208967, y: 0.25605875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd78952f2443c310800000000000000
+      internalID: 1424056876464111028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letra_S
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1189
+        width: 764
+        height: 1077
+      alignment: 9
+      pivot: {x: 0.24567178, y: 0.24081242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496bd9dfc1b369bd0800000000000000
+      internalID: -2623844737196640620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letra_L
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 764
         height: 1078
       alignment: 9
-      pivot: {x: 0.2186259, y: 0.24978043}
+      pivot: {x: 0.22059715, y: 0.27405596}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d332626b5243c6e0800000000000000
-      internalID: -1818536864267488303
+      spriteID: 47543ca0fbb102b30800000000000000
+      internalID: 4260435754825762164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cabezas_moreno_600x600_1
+      name: Letra_A
       rect:
         serializedVersion: 2
-        x: 1227
-        y: 1168
-        width: 775
-        height: 1092
-      alignment: 9
-      pivot: {x: 0.2265343, y: 0.26307046}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1724b2de330b0fb0800000000000000
-      internalID: -4680643819363621091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cabezas_moreno_600x600_2
-      rect:
-        serializedVersion: 2
-        x: 682
+        x: 1141
         y: 0
-        width: 765
-        height: 1101
+        width: 764
+        height: 1078
       alignment: 9
-      pivot: {x: 0.22295935, y: 0.26000744}
+      pivot: {x: 0.24208955, y: 0.25120768}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6a5afa68cc105c50800000000000000
-      internalID: 6651848296740051562
+      spriteID: 7a677b9699479c080800000000000000
+      internalID: -9166667364283484505
       vertices: []
       indices: 
       edges: []
