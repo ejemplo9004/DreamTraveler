@@ -17,7 +17,7 @@ public class GestorPreguntas : MonoBehaviour
 	public bool enEspera;
 	public GameObject prBien;
 	public GameObject prMal;
-
+	public GameObject cnvFinal;
 	int i;
 
 	private void Awake()
@@ -33,6 +33,7 @@ public class GestorPreguntas : MonoBehaviour
 			yield return new WaitUntil(() => !enEspera);
 			yield return new WaitForSeconds(1);
 		}
+		Instantiate(cnvFinal);
 	}
 
 	void CrearPregunta(Pregunta p)

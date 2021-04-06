@@ -117,9 +117,9 @@ public class Palabra
 }
 public enum TipoPalabra
 {
-    sustantivo,
-    verbo,
-    pronombre,
-    articulo, 
-	adjetivo
+	SUSTANTIVO,
+	VERBO,
+	ADJETIVO,
+	PREPOSICIÓN,
+	PRONOMBRE
 }
