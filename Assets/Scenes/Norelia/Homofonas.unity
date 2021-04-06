@@ -254,7 +254,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 93ab95b9be55dba41a493b8471af0ca0, type: 3}
+    m_Font: {fileID: 12800000, guid: 5f2c07b15e8ee6d49a8482cd820670c9, type: 3}
     m_FontSize: 24
     m_FontStyle: 0
     m_BestFit: 0
@@ -773,7 +773,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7302999079412156442, guid: c0f0b05a1ff72b04d894655d62840f33,
+  m_Sprite: {fileID: 2493994606806804956, guid: abed5a6435c05ef409fbf43c6a415b93,
     type: 3}
   m_Type: 1
   m_PreserveAspect: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 8
+  m_PixelsPerUnitMultiplier: 1.28
 --- !u!222 &1259770467
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -822,29 +822,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   preguntas:
-  - pregunta: Necesitamos ___________ esta pena, ya que el acusado, realmente es
-      inocente.
+  - pregunta: "Mi hermana si sabe _______ carne, as\xED mismo, es muy buena para
+      los juegos de __________"
     respuestas:
-    - absolver
-    - absorber
+    - Asar- azar
+    - Hazar- asar
+    - Ashar-hazar
+    - Asar-azhar
     correcta: 0
-  - pregunta: 'Los estudiantes del Pascual Bravo, tienes notorias _____________ para
-      el trabajo en equipo. '
+  - pregunta: "La bandera que est\xE1 en el ______________ ha sido elevada desde
+      la cima y durar\xE1  _________ que los estudiantes lo deseen. "
     respuestas:
-    - aptitudes
-    - actitudes
-    correcta: 0
-  - pregunta: "Desde la ciencia y la ingenier\xEDa, se considera importante ____________ 
-      la informaci\xF3n, con datos que permitan un an\xE1lisis comparativo."
-    respuestas:
-    - cortejar
-    - cotejar
-    correcta: 1
-  - pregunta: "Despu\xE9s de mucho debatir, la asamblea de estudiantes, decidi\xF3
-      ____________ a su representante por dos a\xF1os mes."
-    respuestas:
-    - rectificar
-    - ratificar
+    - 'Hasta-asta '
+    - 'Asta-hasta '
+    - 'Asta-asta '
+    - Hasta-hasta
     correcta: 1
   indice: 0
   botones: []
