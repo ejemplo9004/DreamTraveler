@@ -8,7 +8,33 @@ public class SuperZoom : MonoBehaviour
     public float zoom = 1.2f;
 	public float tiempo;
 	public SuperValores[] hijos;
-    public void Activar()
+
+	public bool añadirEventosAutomaticamente = true;
+
+	private void Start()
+	{
+		if (añadirEventosAutomaticamente)
+		{
+			AñadirEventos();
+		}
+	}
+
+	void AñadirEventos()
+	{
+		EventTrigger eventTrigger = GetComponent<EventTrigger>();
+
+		EventTrigger.Entry pointerDownEntry = new EventTrigger.Entry();
+		pointerDownEntry.eventID = EventTriggerType.PointerEnter;
+		pointerDownEntry.callback.AddListener((data) => Activar());
+		eventTrigger.triggers.Add(pointerDownEntry);
+
+		EventTrigger.Entry pointerDownEntry2 = new EventTrigger.Entry();
+		pointerDownEntry2.eventID = EventTriggerType.PointerExit;
+		pointerDownEntry2.callback.AddListener((data) => Desactivar());
+		eventTrigger.triggers.Add(pointerDownEntry2);
+
+	}
+	public void Activar()
 	{
 		LeanTween.scale(gameObject, Vector3.one*zoom, tiempo);
 		for (int i = 0; i < hijos.Length; i++)

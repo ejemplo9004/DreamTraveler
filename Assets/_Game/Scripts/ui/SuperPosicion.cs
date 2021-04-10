@@ -10,6 +10,7 @@ public class SuperPosicion : MonoBehaviour
 	public Vector3 posicion;
 	public float tiempo;
 	public SuperValores2[] hijos;
+	public bool añadirEventosAutomaticamente = true;
 
 	Vector3 posInicial;
 	private void Start()
@@ -19,6 +20,26 @@ public class SuperPosicion : MonoBehaviour
 		{
 			hijos[i].posInicial = hijos[i].objeto.transform.position;
 		}
+		if (añadirEventosAutomaticamente)
+		{
+			AñadirEventos();
+		}
+	}
+
+	void AñadirEventos()
+	{
+		EventTrigger eventTrigger = GetComponent<EventTrigger>();
+
+		EventTrigger.Entry pointerDownEntry = new EventTrigger.Entry();
+		pointerDownEntry.eventID = EventTriggerType.PointerEnter;
+		pointerDownEntry.callback.AddListener((data) => Activar());
+		eventTrigger.triggers.Add(pointerDownEntry);
+
+		EventTrigger.Entry pointerDownEntry2 = new EventTrigger.Entry();
+		pointerDownEntry2.eventID = EventTriggerType.PointerExit;
+		pointerDownEntry2.callback.AddListener((data) => Desactivar());
+		eventTrigger.triggers.Add(pointerDownEntry2);
+
 	}
 
 	public void Activar()
