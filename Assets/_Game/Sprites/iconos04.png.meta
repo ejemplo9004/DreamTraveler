@@ -82,7 +82,7 @@ TextureImporter:
     second: Brazo_ramon02
   - first:
       213: 6854250357892432879
-    second: iconos04_24
+    second: Azul
   - first:
       213: -4151354250918829160
     second: Brazo_Ramon02
@@ -91,7 +91,28 @@ TextureImporter:
     second: BrazoRamon02
   - first:
       213: -438353484450825153
-    second: iconos04_7
+    second: Recuadro
+  - first:
+      213: 1257708635774034765
+    second: Control
+  - first:
+      213: -8462032300810287154
+    second: Giro
+  - first:
+      213: 4939649060650818574
+    second: comunicacion
+  - first:
+      213: 3663996666056170482
+    second: creatividad
+  - first:
+      213: 3489775359687705257
+    second: atencion
+  - first:
+      213: 1022062501326172591
+    second: lenjuage
+  - first:
+      213: 5868066696468967225
+    second: Bombilla
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -15067,6 +15088,195 @@ TextureImporter:
         boneIndex[1]: 0
         boneIndex[2]: 0
         boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Recuadro
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 350
+        width: 576
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cf04114d7aae9f0800000000000000
+      internalID: -438353484450825153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Azul
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 812
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c5c792603f1f50800000000000000
+      internalID: 6854250357892432879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Control
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 130
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a0423757447110800000000000000
+      internalID: 1257708635774034765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giro
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 104
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec74258c472d09a80800000000000000
+      internalID: -8462032300810287154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comunicacion
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 127
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1f2736a82d8440800000000000000
+      internalID: 4939649060650818574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatividad
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 111
+        width: 123
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5e7a1e8129d230800000000000000
+      internalID: 3663996666056170482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atencion
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 112
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c814333c2e6030800000000000000
+      internalID: 3489775359687705257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lenjuage
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 110
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa13bc90e681f2e00800000000000000
+      internalID: 1022062501326172591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombilla
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 18
+        width: 244
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2551f19f8f6150800000000000000
+      internalID: 5868066696468967225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
