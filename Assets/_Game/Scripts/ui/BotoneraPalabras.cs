@@ -59,4 +59,40 @@ public class BotoneraPalabras : MonoBehaviour
 		}
 	}
 
+	public void Verificar()
+	{
+		for (int i = 0; i < palabrasOcultas.Count; i++)
+		{
+			if (palabrasOcultas[i].Comparar(palabraActual))
+			{
+				Acerto();
+				return;
+			}
+		}
+		Fallo();
+	}
+
+	void Acerto()
+	{
+		palabraActual = "";
+		ActualizarTexto();
+		Reaparecer();
+	}
+
+	void Fallo()
+	{
+
+		palabraActual = "";
+		ActualizarTexto();
+		Reaparecer();
+	}
+
+	void Reaparecer()
+	{
+		for (int i = 0; i < botones.Count; i++)
+		{
+			botones[i].Aparecer();
+		}
+	}
+
 }

@@ -337,6 +337,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: MORENO
       objectReference: {fileID: 0}
+    - target: {fileID: 1501092755865500641, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158003894506758247, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158003894506758247, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158003894506758247, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9998906
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158003894506758247, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.014789567
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158003894506758247, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.695
+      objectReference: {fileID: 0}
     - target: {fileID: 7705174069825361470, guid: 8d10a30ed622ecc4faef0c266aefda7f,
         type: 3}
       propertyPath: m_RootOrder
@@ -406,6 +436,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8376764604298078517, guid: 8d10a30ed622ecc4faef0c266aefda7f,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 21
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d10a30ed622ecc4faef0c266aefda7f, type: 3}

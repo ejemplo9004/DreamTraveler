@@ -7,7 +7,8 @@ public class PalabrasOcultas : MonoBehaviour
 {
     public Text txt;
     public string palabra;
-	
+
+	bool verificado = false;
     public void Inicializar(string p)
 	{
         palabra = p;
@@ -20,9 +21,10 @@ public class PalabrasOcultas : MonoBehaviour
 
 	public bool Comparar(string p)
 	{
-		if (p.Equals(palabra))
+		if (!verificado && p.Equals(palabra))
 		{
 			txt.text = palabra;
+			verificado = true;
 			return true;
 		}
 		return false;
