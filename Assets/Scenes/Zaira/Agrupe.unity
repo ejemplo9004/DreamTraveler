@@ -321,64 +321,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   palabrasPosibles:
-  - palabra: "\xC1RBOL "
-    tipo: 0
-  - palabra: 'ELEFANTE '
-    tipo: 0
-  - palabra: CAMILA
-    tipo: 0
-  - palabra: "VISTUR\xCD"
-    tipo: 0
-  - palabra: MOTOCICLETA
-    tipo: 0
-  - palabra: SARA
-    tipo: 0
-  - palabra: ARMAR
-    tipo: 1
-  - palabra: ESTUDIAR
-    tipo: 1
-  - palabra: CAMINAR
-    tipo: 1
-  - palabra: VER
-    tipo: 1
-  - palabra: MODELAR
-    tipo: 1
-  - palabra: 'SENTIR '
-    tipo: 1
-  - palabra: 'ANCHO '
-    tipo: 2
-  - palabra: ENORME
-    tipo: 2
-  - palabra: CALUROSO
-    tipo: 2
-  - palabra: VALIOSO
-    tipo: 2
-  - palabra: SIMPATICO
-    tipo: 2
-  - palabra: ANTE
-    tipo: 3
-  - palabra: 'ENTRE '
-    tipo: 3
-  - palabra: 'CON '
-    tipo: 3
-  - palabra: VERSUS
-    tipo: 3
-  - palabra: MEDIANTE
-    tipo: 3
-  - palabra: SOBRE
-    tipo: 3
-  - palabra: AQUELLOS
-    tipo: 4
-  - palabra: "\xC9L"
-    tipo: 4
-  - palabra: CONTIGO
-    tipo: 4
-  - palabra: VOSOTROS
-    tipo: 4
-  - palabra: MIO
-    tipo: 4
-  - palabra: SUYO
-    tipo: 4
+  - palabra: "Monta\xF1a"
+    tipo: 5
+  - palabra: Cielo
+    tipo: 5
+  - palabra: "R\xEDo"
+    tipo: 5
+  - palabra: Flores
+    tipo: 5
+  - palabra: Mar
+    tipo: 5
+  - palabra: Mano
+    tipo: 7
+  - palabra: Cabeza
+    tipo: 7
+  - palabra: Nariz
+    tipo: 7
+  - palabra: Brazo
+    tipo: 7
+  - palabra: Muslo
+    tipo: 7
+  - palabra: "Pi\xF1a"
+    tipo: 6
+  - palabra: "Melocot\xF3n"
+    tipo: 6
+  - palabra: Naranja
+    tipo: 6
+  - palabra: Pera
+    tipo: 6
+  - palabra: Mandarina
+    tipo: 6
   prMaleta:
   - {fileID: 591351680423345203, guid: d7de2e570f7b9bf419f746410d749eb2, type: 3}
   - {fileID: 591351680423345203, guid: 52bf72f47391cb54da57d9ef2df85f92, type: 3}
@@ -435,7 +407,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntos: 0
-  puntosEsperados: 15
+  puntosEsperados: 20
   cnvFinalNivel: {fileID: 576714626999391078, guid: 30791d41e6b3e95498d43e14d0c7e324,
     type: 3}
 --- !u!1 &837064274

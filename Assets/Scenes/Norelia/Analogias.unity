@@ -232,7 +232,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 391.8133, y: 162.39029}
+  m_SizeDelta: {x: 383.54944, y: 162.39029}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &216662796
 MonoBehaviour:
@@ -822,30 +822,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   preguntas:
-  - pregunta: Necesitamos ___________ esta pena, ya que el acusado, realmente es
-      inocente.
+  - pregunta: "EINSTEIN es a F\xCDSICA as\xED como:"
     respuestas:
-    - absolver
-    - absorber
-    correcta: 0
-  - pregunta: 'Los estudiantes del Pascual Bravo, tienes notorias _____________ para
-      el trabajo en equipo. '
+    - "GALILEO a M\xDASICA "
+    - "M\xC9NDEL a GEN\xC9TICA "
+    - "NEWTON a FILOSOF\xCDA  "
+    - "MARQUEZ a QU\xCDMICA"
+    correcta: 2
+  - pregunta: "FIL\xC1NTROPO es a MIS\xC1NTROPO as\xED como "
     respuestas:
-    - aptitudes
-    - actitudes
-    correcta: 0
-  - pregunta: "Desde la ciencia y la ingenier\xEDa, se considera importante ____________ 
-      la informaci\xF3n, con datos que permitan un an\xE1lisis comparativo."
-    respuestas:
-    - cortejar
-    - cotejar
-    correcta: 1
-  - pregunta: "Despu\xE9s de mucho debatir, la asamblea de estudiantes, decidi\xF3
-      ____________ a su representante por dos a\xF1os mes."
-    respuestas:
-    - rectificar
-    - ratificar
-    correcta: 1
+    - 'ESTUDIANTE a COLEGIO  '
+    - 'ALEGRE a FELIZ  '
+    - 'MECENAS a PROTECTOR '
+    - AYUDANTE a OPONENTE
+    correcta: 3
   indice: 0
   botones: []
   txtPregunta: {fileID: 216662796}
