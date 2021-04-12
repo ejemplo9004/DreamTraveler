@@ -29,7 +29,6 @@ public class Pastel : MonoBehaviour
 				)
 			{
 				mensaje.text = "Perfecto!";
-				print("Correcto");
 				ControlGenerico.singleton.SumarPuntos(10);
 			}
 			else

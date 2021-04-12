@@ -44,7 +44,7 @@ public class SuperPosicion : MonoBehaviour
 
 	public void Activar()
 	{
-		LeanTween.move(gameObject, posInicial + posicion, tiempo);
+		if(posicion.magnitude>0.01) LeanTween.move(gameObject, posInicial + posicion, tiempo);
 		for (int i = 0; i < hijos.Length; i++)
 		{
 			StartCoroutine(ActivarConDelay(hijos[i]));
@@ -52,7 +52,7 @@ public class SuperPosicion : MonoBehaviour
 	}
 	public void Desactivar()
 	{
-		LeanTween.move(gameObject, posInicial, tiempo);
+		if (posicion.magnitude > 0.01) LeanTween.move(gameObject, posInicial, tiempo);
 		for (int i = 0; i < hijos.Length; i++)
 		{
 			hijos[i].Desactivar();
