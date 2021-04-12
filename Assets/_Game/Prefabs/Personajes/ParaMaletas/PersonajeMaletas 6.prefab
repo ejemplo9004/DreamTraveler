@@ -56,6 +56,7 @@ MonoBehaviour:
   txtPalabra: {fileID: 258199944917705177}
   devolviendose: 0
   animPersonaje: {fileID: 7929326073645202579}
+  padreDelHijo: 0
 --- !u!70 &1817220185914158845
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -137,7 +138,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7676866631501007997, guid: c0f0b05a1ff72b04d894655d62840f33,
+  m_Sprite: {fileID: -6722588574979375011, guid: ec49f5835a0d17e4cb721f3b84a17a8e,
     type: 3}
   m_Type: 1
   m_PreserveAspect: 0

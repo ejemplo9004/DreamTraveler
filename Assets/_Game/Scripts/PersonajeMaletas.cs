@@ -19,11 +19,12 @@ public class PersonajeMaletas : MonoBehaviour
 	public Animator animPersonaje;
 	float tiempoIniciado;
 	float tiempoRandom;
+	public bool padreDelHijo;
 
 	private void Start()
 	{
 		StartCoroutine(Entrar());
-		txtPalabra.text = tipo.ToString();
+		txtPalabra.text = tipo.ToString().Replace('_', ' ');
 		tiempoIniciado = Time.time;
 		tiempoRandom = Random.Range(8f, 12f);
 	}
@@ -32,9 +33,9 @@ public class PersonajeMaletas : MonoBehaviour
 	{
 		animPersonaje.SetBool("caminando", true);
 
-		Vector3 nsl = animPersonaje.transform.localScale;
+		Vector3 nsl = GetTransform().localScale;
 		nsl.x *= Mathf.Sign(posObjetivo.x - posicionInicial.x);
-		animPersonaje.transform.localScale = nsl;
+		GetTransform().localScale = nsl;
 
 		while (!devolviendose && t < 1)
 		{
@@ -55,9 +56,9 @@ public class PersonajeMaletas : MonoBehaviour
 	{
 		animPersonaje.SetBool("caminando", true);
 
-		Vector3 nsl = animPersonaje.transform.localScale;
+		Vector3 nsl = GetTransform().localScale;
 		nsl.x *= (cualEra == 0?-1:1)*Mathf.Sign(posObjetivo.x - posicionInicial.x);
-		animPersonaje.transform.localScale = nsl;
+		GetTransform().localScale = nsl;
 
 		while ( t > 0)
 		{
@@ -67,6 +68,15 @@ public class PersonajeMaletas : MonoBehaviour
 		}
 		CreadorMaletas.singleton.CrearPersonaje(cualEra);
 		Destroy(gameObject);
+	}
+
+	public Transform GetTransform()
+	{
+		if (padreDelHijo)
+		{
+			return animPersonaje.transform.parent;
+		}
+		return animPersonaje.transform;
 	}
 
 	private void Update()

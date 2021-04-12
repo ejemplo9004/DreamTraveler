@@ -88,6 +88,7 @@ public class Maleta : MonoBehaviour
 			{
 				/////////////////////////////////// Acertó
 				pm.Devolver();
+				ControlGenerico.singleton.SumarPuntos(1);
 				Destroy(gameObject);
 			}
 			else
@@ -121,5 +122,8 @@ public enum TipoPalabra
 	VERBO,
 	ADJETIVO,
 	PREPOSICIÓN,
-	PRONOMBRE
+	PRONOMBRE,
+	NATURALEZA,
+	FRUTAS,
+	PARTES_DEL_CUERPO
 }
