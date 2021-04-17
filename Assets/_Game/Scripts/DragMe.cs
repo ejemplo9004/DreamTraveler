@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 
 public class DragMe : MonoBehaviour
 {
+    public static DragMe drgActivo;
 
     bool canMove;
     bool dragging;
@@ -41,6 +42,7 @@ public class DragMe : MonoBehaviour
             {
                 dragging = true;
                 iniciaDrag.Invoke();
+                drgActivo = this;
             }
 
 

@@ -59,4 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Norelia/Paronimos.unity
     guid: cc47ecf96fd28d54f9821784a5f79f8e
+  - enabled: 1
+    path: Assets/Scenes/Zaira/Imagenes.unity
+    guid: 17559e02204cdbb47b8e5fc984a014a3
   m_configObjects: {}
