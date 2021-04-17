@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: d26846da063104d4b9662bbdadfe935f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8699351986380271666
+    second: JarronPiezas 1_0
+  - first:
+      213: 3335245782323234849
+    second: JarronPiezas 1_1
+  - first:
+      213: -1283044434940013672
+    second: JarronPiezas 1_2
+  - first:
+      213: 3095449054281571152
+    second: JarronPiezas 1_3
+  - first:
+      213: -7192523145064375120
+    second: JarronPiezas 1_4
+  - first:
+      213: -7827169255139350810
+    second: JarronPiezas 1_5
+  - first:
+      213: 7387459794141162164
+    second: JarronPiezas 1_6
+  - first:
+      213: 5449540811849425437
+    second: JarronPiezas 1_7
+  - first:
+      213: 8373492892938620347
+    second: JarronPiezas 1_8
+  - first:
+      213: 7157784528366043888
+    second: JarronPiezas 1_9
+  - first:
+      213: -8844931523715799034
+    second: JarronPiezas 1_10
+  - first:
+      213: -2534478792153446768
+    second: JarronPiezas 1_11
+  - first:
+      213: 5371947903645906923
+    second: JarronPiezas 1_12
+  - first:
+      213: 1629703933830011928
+    second: JarronPiezas 1_13
+  - first:
+      213: 1224996347617265674
+    second: JarronPiezas 1_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JarronPiezas 1_0
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1711
+        width: 381
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f84c5a8e4ab870800000000000000
+      internalID: 8699351986380271666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_1
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1666
+        width: 427
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280ffd3e5c294e20800000000000000
+      internalID: 3335245782323234849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_2
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1685
+        width: 421
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893db5062e5b13ee0800000000000000
+      internalID: -1283044434940013672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 719
+        width: 558
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b95c4b38e35fa20800000000000000
+      internalID: 3095449054281571152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1239
+        width: 388
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc99a3ae460f2c90800000000000000
+      internalID: -7192523145064375120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1238
+        width: 159
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66f86580f406390800000000000000
+      internalID: -7827169255139350810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_6
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1295
+        width: 482
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa346da87858660800000000000000
+      internalID: 7387459794141162164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 826
+        width: 223
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126747de78a0ab40800000000000000
+      internalID: 5449540811849425437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_8
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 851
+        width: 339
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4dd4eb6f943470800000000000000
+      internalID: 8373492892938620347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_9
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 803
+        width: 274
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28b00ea1f855360800000000000000
+      internalID: 7157784528366043888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 384
+        width: 199
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e34244ad704580800000000000000
+      internalID: -8844931523715799034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 447
+        width: 475
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ceee77f8b3dcd0800000000000000
+      internalID: -2534478792153446768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_12
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 431
+        width: 220
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f7b4182efc8a40800000000000000
+      internalID: 5371947903645906923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_13
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 71
+        width: 367
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9ef0e71fdd9610800000000000000
+      internalID: 1629703933830011928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarronPiezas 1_14
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 71
+        width: 416
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c0e610bf000110800000000000000
+      internalID: 1224996347617265674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
