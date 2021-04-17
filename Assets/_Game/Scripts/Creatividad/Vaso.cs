@@ -39,6 +39,7 @@ public class Vaso : MonoBehaviour
             ControlVasos.singleton.posicionX = Mathf.RoundToInt(px);
             ControlVasos.singleton.tSeleccion.position = new Vector3(transform.position.x, ControlVasos.singleton.tSeleccion.position.y, 0);
             ControlVasos.singleton.posVasoSeleccionado = Mathf.RoundToInt(px);
+            ControlVasos.singleton.botonera.SetActive(true);
         }
 
     }
@@ -79,4 +80,11 @@ public class Vaso : MonoBehaviour
         }
     }
 
+	private void OnTriggerEnter2D(Collider2D other)
+	{
+		if (vasoActivo == this && other.CompareTag("Maleta"))
+		{
+            ControlVasos.singleton.GameOver();
+        }
+    }
 }

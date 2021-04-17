@@ -47,7 +47,7 @@ public class DragMe : MonoBehaviour
 
 
         }
-        if (dragging)
+        if (dragging && drgActivo == this)
         {
             this.transform.position = mousePos;
             draggeando.Invoke();

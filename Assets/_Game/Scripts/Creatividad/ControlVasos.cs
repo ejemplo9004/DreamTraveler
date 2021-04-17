@@ -13,6 +13,9 @@ public class ControlVasos : MonoBehaviour
     public bool inicioMovimiento;
     public int posVasoSeleccionado;
     public Vaso[] vasos;
+    public GameObject botonera;
+    public GameObject cnvgameOver;
+    public GameObject prBien;
 
     public static ControlVasos singleton;
 
@@ -23,13 +26,7 @@ public class ControlVasos : MonoBehaviour
 	// Start is called before the first frame update
 	void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        botonera.SetActive(false);
     }
     public void Subir()
     {
@@ -49,8 +46,21 @@ public class ControlVasos : MonoBehaviour
             inicioMovimiento = true;
             Vaso.vasoActivo.Bajar();
             arriba = Vaso.vasoActivo.arriba;
+            Invoke("Verificar", 2);
         }
     }
+
+    public void Verificar()
+	{
+		if ((!vasos[0].lleno && !vasos[2].lleno && !vasos[4].lleno && vasos[1].lleno && vasos[3].lleno && vasos[5].lleno) && (posicionX == 7 || posicionX == 8 || posicionX==9)  )
+		{
+            Instantiate(prBien);
+		}
+		else
+		{
+            GameOver();
+		}
+	}
 
     public void Izquierda()
     {
@@ -61,6 +71,9 @@ public class ControlVasos : MonoBehaviour
             posicionX = Mathf.RoundToInt(Vaso.vasoActivo.px);
         }
     }
+
+
+
     public void Derecha()
     {
         if (Vaso.vasoActivo != null)
@@ -74,11 +87,12 @@ public class ControlVasos : MonoBehaviour
     {
         if (Vaso.vasoActivo != null && !Vaso.vasoActivo.volteado)
         {
-			if (Vaso.vasoActivo.lleno)
+			if (Vaso.vasoActivo.lleno && posicionX % 2 == 0)
 			{
 				if (!vasos[posicionX/2].lleno)
 				{
                     vasos[posicionX / 2].animator.SetTrigger("llenar");
+                    vasos[posicionX / 2].lleno = true;
                 }
 			}
             inicioMovimiento = true;
@@ -97,4 +111,9 @@ public class ControlVasos : MonoBehaviour
             btnEnderezar.interactable = false;
         }
     }
+
+    public void GameOver()
+	{
+        cnvgameOver.SetActive(true);
+	}
 }
