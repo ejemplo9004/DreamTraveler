@@ -78,7 +78,7 @@ public class ControlVasos : MonoBehaviour
 			{
 				if (!vasos[posicionX/2].lleno)
 				{
-                    vasos[posicionX / 2].animator.SetTrigger("activar");
+                    vasos[posicionX / 2].animator.SetTrigger("llenar");
                 }
 			}
             inicioMovimiento = true;
