@@ -77,6 +77,7 @@ public class BotoneraPalabras : MonoBehaviour
 		palabraActual = "";
 		ActualizarTexto();
 		Reaparecer();
+		Vicioso.singleton.SumarAcierto();
 	}
 
 	void Fallo()
@@ -85,6 +86,7 @@ public class BotoneraPalabras : MonoBehaviour
 		palabraActual = "";
 		ActualizarTexto();
 		Reaparecer();
+		Vicioso.singleton.SumarError();
 	}
 
 	void Reaparecer()

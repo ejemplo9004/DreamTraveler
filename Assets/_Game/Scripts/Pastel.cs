@@ -30,11 +30,13 @@ public class Pastel : MonoBehaviour
 			{
 				mensaje.text = "Perfecto!";
 				ControlGenerico.singleton.SumarPuntos(10);
+				Vicioso.singleton.SumarAcierto();
 			}
 			else
 			{
 				mensaje.text = "La respuesta no es correcta, intenta nuevamente.";
 				imMensaje.SetActive(true);
+				Vicioso.singleton.SumarError();
 			}
 		}
 	}

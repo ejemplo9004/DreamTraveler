@@ -11,6 +11,11 @@ public class PNumeros : MonoBehaviour
 
     public GameObject gBien;
     public GameObject gMal;
+    public float tiempo;
+    public Image imTiempo;
+    public GameObject cnvFinal;
+
+    float tiempoInicial;
 
     bool verificando = false;
 
@@ -51,8 +56,28 @@ public class PNumeros : MonoBehaviour
 	private void Start()
 	{
         GenerarTextos();
-
+        tiempoInicial = tiempo;
+        StartCoroutine(Esperar());
     }
+
+    IEnumerator Esperar()
+	{
+		while (tiempo > 0.01f)
+		{
+            yield return new WaitForSeconds(0.1f);
+		}
+        Instantiate(cnvFinal);
+	}
+
+	private void Update()
+	{
+        if(!verificando) tiempo -= Time.deltaTime;
+		if (tiempo < 0)
+		{
+            tiempo = 0;
+		}
+        imTiempo.fillAmount = tiempo / tiempoInicial;
+	}
 
 	public void Verificar(int i)
 	{
@@ -63,19 +88,23 @@ public class PNumeros : MonoBehaviour
 		if (i+1 == correcta)
 		{
             StartCoroutine(ActivarDesactivar(gBien));
+            Instantiate(gBien);
+            Vicioso.singleton.SumarAcierto();
 		}
 		else
 		{
             StartCoroutine(ActivarDesactivar(gMal));
-		}
+            Instantiate(gMal);
+            Vicioso.singleton.SumarError();
+        }
 	}
 
     IEnumerator ActivarDesactivar(GameObject g)
 	{
         verificando = true;
-        g.SetActive(true);
-        yield return new WaitForSeconds(1);
-        g.SetActive(false);
+        //g.SetActive(true);
+        yield return new WaitForSeconds(2);
+        //g.SetActive(false);
         verificando = false;
         GenerarTextos();
     }

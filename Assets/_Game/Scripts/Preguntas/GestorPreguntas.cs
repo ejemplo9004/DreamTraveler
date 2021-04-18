@@ -68,11 +68,13 @@ public class GestorPreguntas : MonoBehaviour
 		if (preguntas[i].correcta == cual)
 		{
 			print("Respuesta correcta");
+			Vicioso.singleton.SumarAcierto();
 			Instantiate(prBien);
 		}
 		else
 		{
 			Instantiate(prMal);
+			Vicioso.singleton.SumarError();
 			print("Respuesta MALA!!!!!! aprenda..");
 		}
 		enEspera = false;

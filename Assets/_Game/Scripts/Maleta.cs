@@ -89,10 +89,12 @@ public class Maleta : MonoBehaviour
 				/////////////////////////////////// Acertó
 				pm.Devolver();
 				ControlGenerico.singleton.SumarPuntos(1);
+				Vicioso.singleton.SumarAcierto();
 				Destroy(gameObject);
 			}
 			else
 			{
+				Vicioso.singleton.SumarError();
 				RestablecerPosicion();
 			}
 		}

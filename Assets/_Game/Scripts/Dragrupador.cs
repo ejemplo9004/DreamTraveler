@@ -10,6 +10,7 @@ public class Dragrupador : MonoBehaviour
 	public bool desaparecer;
 	public bool borrar;
 	public float distanciaObjetivo = 2;
+	public bool verificarCorrecto = false;
     void Start()
     {
         posInicial = transform.position;
@@ -26,6 +27,10 @@ public class Dragrupador : MonoBehaviour
 			if (distancia < distanciaObjetivo)
 			{
 				print("correcto");
+				if (verificarCorrecto)
+				{
+					Vicioso.singleton.SumarAcierto();
+				}
 				Desaparecer();
 				dragrupador.Desaparecer();
 				if (ControlGenerico.singleton != null)
@@ -41,7 +46,10 @@ public class Dragrupador : MonoBehaviour
 		}
 		else
 		{
-			print("incorre");
+			if (verificarCorrecto)
+			{
+				Vicioso.singleton.SumarError();
+			}
 			transform.position = posInicial;
 		}
 	}

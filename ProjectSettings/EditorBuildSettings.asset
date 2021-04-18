@@ -68,4 +68,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Juan/Caballos.unity
     guid: 4e185340a5d9e8046a1f9f4a95a4eb74
+  - enabled: 1
+    path: Assets/Scenes/Zaira/Florero.unity
+    guid: 8f9b2a9be8b309941bc220ffb05fe8fb
+  - enabled: 1
+    path: Assets/Scenes/Juan/Carta.unity
+    guid: c95a20bff27420446ab93e08098c06f8
   m_configObjects: {}

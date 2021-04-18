@@ -55,10 +55,12 @@ public class ControlVasos : MonoBehaviour
 		if ((!vasos[0].lleno && !vasos[2].lleno && !vasos[4].lleno && vasos[1].lleno && vasos[3].lleno && vasos[5].lleno) && (posicionX == 7 || posicionX == 8 || posicionX==9)  )
 		{
             Instantiate(prBien);
+            Vicioso.singleton.SumarAcierto();
 		}
 		else
 		{
             GameOver();
+            Vicioso.singleton.SumarError();
 		}
 	}
 

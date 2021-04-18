@@ -14,10 +14,13 @@ public class ControlCaballos : MonoBehaviour
 		if (p1.contacto && p2.contacto)
 		{
 			Instantiate(gFinal);
+			Vicioso.singleton.SumarAcierto();
 		}
 		else
 		{
 			gMal.SetActive(true);
+			Vicioso.singleton.SumarError();
 		}
+		Vicioso.singleton.GuardarDatos();
 	}
 }

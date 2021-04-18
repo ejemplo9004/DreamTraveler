@@ -161,6 +161,7 @@ MonoBehaviour:
   desaparecer: 1
   borrar: 1
   distanciaObjetivo: 2
+  verificarCorrecto: 1
 --- !u!50 &636186215642771767
 Rigidbody2D:
   serializedVersion: 4

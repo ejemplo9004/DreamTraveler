@@ -1097,7 +1097,7 @@ PrefabInstance:
     - target: {fileID: 2940978265427615670, guid: 662844b329dec5345b3dbc3944bb970d,
         type: 3}
       propertyPath: m_Interactable
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2940978265427615670, guid: 662844b329dec5345b3dbc3944bb970d,
         type: 3}
@@ -1127,7 +1127,7 @@ PrefabInstance:
     - target: {fileID: 2940978265427615670, guid: 662844b329dec5345b3dbc3944bb970d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Relacione
+      value: Carta
       objectReference: {fileID: 0}
     - target: {fileID: 2940978265427615670, guid: 662844b329dec5345b3dbc3944bb970d,
         type: 3}
@@ -1257,7 +1257,12 @@ PrefabInstance:
     - target: {fileID: 2940978266407963780, guid: 662844b329dec5345b3dbc3944bb970d,
         type: 3}
       propertyPath: m_Text
-      value: Relacione
+      value: Newspaper Blackout
+      objectReference: {fileID: 0}
+    - target: {fileID: 2940978266407963781, guid: 662844b329dec5345b3dbc3944bb970d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 51.69879
       objectReference: {fileID: 0}
     - target: {fileID: 2940978267256261368, guid: 662844b329dec5345b3dbc3944bb970d,
         type: 3}
