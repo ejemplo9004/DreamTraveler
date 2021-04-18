@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 2f8dcc7d6ff86944aac3f0c663b4787e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6772547043856376693
+    second: FORMA_SERVILLETA
+  - first:
+      213: -6476388309014380498
+    second: FORMA_ROCA
+  - first:
+      213: 5121442391797000628
+    second: FORMA_HIELO
+  - first:
+      213: 8126220808353560045
+    second: FORMA_TOTEM
+  - first:
+      213: 4177094194571577615
+    second: FORMA_1
+  - first:
+      213: -1933944552510690092
+    second: DIBUJOS]_V2_5
+  - first:
+      213: 4226639390445074443
+    second: DIBUJOS]_V2_6
+  - first:
+      213: -8629451545190077555
+    second: DIBUJOS]_V2_7
+  - first:
+      213: -7096472222645343062
+    second: DIBUJOS]_V2_8
+  - first:
+      213: 7847685701117867757
+    second: DIBUJOS]_V2_9
+  - first:
+      213: -7197246512512068292
+    second: DIBUJOS]_V2_10
+  - first:
+      213: 5152331008924158746
+    second: DIBUJOS]_V2_11
+  - first:
+      213: 233244784273584351
+    second: DIBUJOS]_V2_12
+  - first:
+      213: 5800522971797302356
+    second: DIBUJOS]_V2_13
+  - first:
+      213: -4331759627874462301
+    second: DIBUJOS]_V2_14
+  - first:
+      213: 8926107357001598255
+    second: DIBUJOS]_V2_15
+  - first:
+      213: 2641894923308381566
+    second: DIBUJOS]_V2_16
+  - first:
+      213: 3076177982513522823
+    second: DIBUJOS]_V2_17
+  - first:
+      213: -1563840968842461168
+    second: DIBUJOS]_V2_18
+  - first:
+      213: -2715083343285239040
+    second: DIBUJOS]_V2_19
+  - first:
+      213: 4336154960819643918
+    second: DIBUJOS]_V2_20
+  - first:
+      213: -1154674010095090475
+    second: DIBUJOS]_V2_21
+  - first:
+      213: 1058163270897092026
+    second: DIBUJOS]_V2_22
+  - first:
+      213: 2233193908870062371
+    second: DIBUJOS]_V2_23
+  - first:
+      213: -4501387473851234880
+    second: DIBUJOS]_V2_24
+  - first:
+      213: 7197968913197825484
+    second: DIBUJOS]_V2_25
+  - first:
+      213: -4707636018896097429
+    second: DIBUJOS]_V2_26
+  - first:
+      213: -2010781691337055630
+    second: DIBUJOS]_V2_27
+  - first:
+      213: -1922373325848740013
+    second: DIBUJOS]_V2_28
+  - first:
+      213: -4717420984641038466
+    second: DIBUJOS]_V2_29
+  - first:
+      213: 6565934516302176711
+    second: DIBUJOS]_V2_30
+  - first:
+      213: -5198987379561256652
+    second: DIBUJOS]_V2_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FORMA_SERVILLETA
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5869
+        width: 539
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5736ea567abecfd50800000000000000
+      internalID: 6772547043856376693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FORMA_ROCA
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 5833
+        width: 670
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2084b5752f3f16a0800000000000000
+      internalID: -6476388309014380498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FORMA_HIELO
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 5752
+        width: 683
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9efa488b4031740800000000000000
+      internalID: 5121442391797000628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FORMA_TOTEM
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 5817
+        width: 830
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de53d4845c226c070800000000000000
+      internalID: 8126220808353560045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FORMA_1
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 5778
+        width: 565
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0909cce90508f930800000000000000
+      internalID: 4177094194571577615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4755
+        width: 802
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6c4c0daf3925e0800000000000000
+      internalID: -1933944552510690092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_6
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 4667
+        width: 794
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f625c12a08aa30800000000000000
+      internalID: 4226639390445074443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_7
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 4752
+        width: 768
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bef7a5a870e3880800000000000000
+      internalID: -8629451545190077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_8
+      rect:
+        serializedVersion: 2
+        x: 4308
+        y: 4693
+        width: 657
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac2ccabc14448d90800000000000000
+      internalID: -7096472222645343062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_9
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 4723
+        width: 792
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6fa0cf09498ec60800000000000000
+      internalID: 7847685701117867757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3681
+        width: 822
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c359cc4fd6e3e1c90800000000000000
+      internalID: -7197246512512068292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_11
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3720
+        width: 840
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b872021c1c08740800000000000000
+      internalID: 5152331008924158746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_12
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3752
+        width: 825
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f65045e6ac3300800000000000000
+      internalID: 233244784273584351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_13
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 3609
+        width: 918
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca87d09e89f7050800000000000000
+      internalID: 5800522971797302356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_14
+      rect:
+        serializedVersion: 2
+        x: 5495
+        y: 3863
+        width: 349
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51a20b19f72e3c0800000000000000
+      internalID: -4331759627874462301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_15
+      rect:
+        serializedVersion: 2
+        x: 5946
+        y: 3863
+        width: 344
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c4114957efdb70800000000000000
+      internalID: 8926107357001598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2357
+        width: 566
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7534b57f65e9a420800000000000000
+      internalID: 2641894923308381566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_17
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2364
+        width: 656
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a899a397c0ba20800000000000000
+      internalID: 3076177982513522823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_18
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 2403
+        width: 572
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01041f6acee1c4ae0800000000000000
+      internalID: -1563840968842461168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_19
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 2341
+        width: 793
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00347eb9516125ad0800000000000000
+      internalID: -2715083343285239040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_20
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 2334
+        width: 481
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e3b286fd1d2c30800000000000000
+      internalID: 4336154960819643918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1237
+        width: 861
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d408e40b16c9ffe0800000000000000
+      internalID: -1154674010095090475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_22
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1122
+        width: 904
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5cf2473e95fae00800000000000000
+      internalID: 1058163270897092026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_23
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1269
+        width: 742
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32124c43706edfe10800000000000000
+      internalID: 2233193908870062371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_24
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1126
+        width: 874
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c544b021fbd781c0800000000000000
+      internalID: -4501387473851234880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_25
+      rect:
+        serializedVersion: 2
+        x: 5527
+        y: 1217
+        width: 763
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdf57f079254e360800000000000000
+      internalID: 7197968913197825484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 149
+        width: 690
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2dd1abfd1baeb0800000000000000
+      internalID: -4707636018896097429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_27
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 48
+        width: 644
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272eefe84b44814e0800000000000000
+      internalID: -2010781691337055630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_28
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 108
+        width: 617
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f791335ab5255e0800000000000000
+      internalID: -1922373325848740013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_29
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 0
+        width: 845
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775f72cb9a588eb0800000000000000
+      internalID: -4717420984641038466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_30
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 0
+        width: 624
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1eaae97a2ee1b50800000000000000
+      internalID: 6565934516302176711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIBUJOS]_V2_31
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1212
+        width: 865
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4392381168c79d7b0800000000000000
+      internalID: -5198987379561256652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
