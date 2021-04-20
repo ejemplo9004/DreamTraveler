@@ -1192,9 +1192,19 @@ MonoBehaviour:
   - escama
   - camara
   - calera
+  - escaso
+  - marca
+  - rama
+  - caso
+  - dale
+  - cada
+  - lees
+  - riso
+  - cada
   aciertos: 0
   padrePalabras: {fileID: 1223254191}
   palabrasOcultas: []
+  cnvFinal: {fileID: 576714626999391078, guid: 30791d41e6b3e95498d43e14d0c7e324, type: 3}
 --- !u!4 &328047380
 Transform:
   m_ObjectHideFlags: 0
@@ -1855,7 +1865,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 184.23997, y: 1.6}
-  m_SizeDelta: {x: 393.4077, y: 377.6181}
+  m_SizeDelta: {x: 393.4077, y: 451.90338}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1223254192
 MonoBehaviour:
@@ -2147,6 +2157,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 328047380}
     m_Modifications:
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: juego
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: categoria
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3289113690544200919, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
         type: 3}
       propertyPath: m_Name

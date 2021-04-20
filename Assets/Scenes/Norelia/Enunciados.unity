@@ -828,41 +828,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   preguntas:
-  - pregunta: "EINSTEIN es a F\xCDSICA as\xED como:"
+  - pregunta: El mejor __________ para que se haga fuego, es frotando la cabeza de
+      la cerilla
     respuestas:
-    - "GALILEO a M\xDASICA "
-    - "M\xC9NDEL a GEN\xC9TICA "
-    - "NEWTON a FILOSOF\xCDA  "
-    - "MARQUEZ a QU\xCDMICA"
-    correcta: 2
-  - pregunta: "FIL\xC1NTROPO es a MIS\xC1NTROPO as\xED como "
-    respuestas:
-    - 'ESTUDIANTE a COLEGIO  '
-    - 'ALEGRE a FELIZ  '
-    - 'MECENAS a PROTECTOR '
-    - AYUDANTE a OPONENTE
-    correcta: 3
-  - pregunta: "MES es a SEMANA as\xED como"
-    respuestas:
-    - sistema es a tiempo
-    - "sistema es a \xF3rganos"
-    - "vegetal es a c\xE9lula"
-    - "dia es a a\xF1o"
+    - Resultado
+    - 'Procedimiento '
+    - 'Forma '
+    - invento
     correcta: 1
-  - pregunta: 'MOTIVO es a CAUSA como: '
+  - pregunta: Gracias a Mesopotamia, tenemos el _________ de la escritura
     respuestas:
-    - "Ef\xEDmero es a Cotidiano"
-    - "consecuencia es a  raz\xF3n"
-    - "hecho es a interpretaci\xF3n"
-    - Efecto es a Consecuencia
-    correcta: 3
-  - pregunta: "TEMPERATURA es a TERM\xD3METRO como: "
+    - Legado
+    - 'Recuerdo '
+    - 'Avance '
+    - 'Posibilidad '
+    correcta: 0
+  - pregunta: "La construcci\xF3n result\xF3 ser muy __________ soport\xF3 lluvias,
+      vientos y sol."
     respuestas:
-    - 'Virus: Enfermedad '
-    - "G\xE9nero: encuesta"
-    - 'Metro: distancia'
-    - 'Distancia: metro'
-    correcta: 3
+    - 'Grande '
+    - 'Alta '
+    - 'Resistente '
+    - 'Estable '
+    correcta: 2
+  - pregunta: El _______________es la forma en que las personas hacemos las cosas,
+      para el logro de un _____________.
+    respuestas:
+    - "M\xE9todo \u2013 objetivo"
+    - "Instinto \u2013 objetivo"
+    - "Derrotero \u2013 instinto"
+    - "Consenso \u2013 m\xE9todo"
+    correcta: 0
+  - pregunta: "En una \xE9poca, el invento del tel\xE9fono, fue ___________ como
+      una verdadera revoluci\xF3n"
+    respuestas:
+    - 'usado '
+    - 'considerado '
+    - 'pensado '
+    - 'imaginado '
+    correcta: 1
   indice: 0
   botones: []
   txtPregunta: {fileID: 216662796}
@@ -898,7 +902,7 @@ PrefabInstance:
     - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
         type: 3}
       propertyPath: juego
-      value: 31
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
         type: 3}

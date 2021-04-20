@@ -3332,6 +3332,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: juego
+      value: 63
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: categoria
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3289113690544200919, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
         type: 3}
       propertyPath: m_Name

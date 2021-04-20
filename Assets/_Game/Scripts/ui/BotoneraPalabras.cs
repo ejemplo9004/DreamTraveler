@@ -18,6 +18,7 @@ public class BotoneraPalabras : MonoBehaviour
 	public List<PalabrasOcultas> palabrasOcultas = new List<PalabrasOcultas>();
 
     public static BotoneraPalabras singleton;
+	public GameObject cnvFinal;
 
 	private void Awake()
 	{
@@ -75,9 +76,14 @@ public class BotoneraPalabras : MonoBehaviour
 	void Acerto()
 	{
 		palabraActual = "";
+		aciertos++;
 		ActualizarTexto();
 		Reaparecer();
 		Vicioso.singleton.SumarAcierto();
+		if (aciertos >= 10)
+		{
+			Instantiate(cnvFinal);
+		}
 	}
 
 	void Fallo()

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ControlSecuencia : MonoBehaviour
 {
-    // Start is called before the first frame update
+    //public void SumarE
     void Start()
     {
         

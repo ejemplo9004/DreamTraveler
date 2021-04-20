@@ -1322,6 +1322,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
         type: 3}
+      propertyPath: juego
+      value: 61
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: categoria
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
       propertyPath: guardarAlDestruir
       value: 0
       objectReference: {fileID: 0}

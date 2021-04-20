@@ -1,13 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
+using System.Collections.Generic;
 
 public class Vicioso : MonoBehaviour
 {
     public static Vicioso singleton;
 	public DatoJuego datos;
 	public string email;
-
+	public string url;
 
 	private void Awake()
 	{
@@ -17,9 +19,20 @@ public class Vicioso : MonoBehaviour
 		}
 		else
 		{
+			transform.parent = null;
 			DontDestroyOnLoad(gameObject);
 			singleton = this;
 		}
+	}
+
+	private void Start()
+	{
+		InvokeRepeating("Cronometro", 1, 1);
+	}
+
+	public void Cronometro()
+	{
+		datos.tiempo++;
 	}
 
 	public void Reiniciar(int _cat, int _jue)
@@ -39,7 +52,24 @@ public class Vicioso : MonoBehaviour
 
 	public void GuardarDatos()
 	{
+		StartCoroutine(Subir());
+		print("GuardandoDatoas");
+	}
 
+	IEnumerator Subir()
+	{
+		WWWForm form = new WWWForm();
+		form.AddField("email_usuario", datos.email_usuario);
+		form.AddField("categoria", datos.categoria);
+		form.AddField("juego", datos.juego);
+		form.AddField("tiempo", datos.tiempo);
+		form.AddField("aciertos", datos.aciertos);
+		form.AddField("errores", datos.errores);
+		form.AddField("metodo", "crear");
+
+		UnityWebRequest www = UnityWebRequest.Post(url, form);
+		yield return www.SendWebRequest();
+		//print(www.)
 	}
 }
 

@@ -50,4 +50,5 @@ MonoBehaviour:
     tiempo: 0
     aciertos: 0
     errores: 0
-  email: 
+  email: morion@pascualbravo.edu.co
+  url: https://moriontutoriales.com/trainingroutes/api/registro_partidas

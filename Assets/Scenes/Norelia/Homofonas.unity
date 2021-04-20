@@ -838,6 +838,30 @@ MonoBehaviour:
     - 'Asta-asta '
     - Hasta-hasta
     correcta: 1
+  - pregunta: "Todos observamos como la estrella de rock   ____________ la puerta, 
+      se _________ cre\xECdo que vendr\xECa donde nosotros. "
+    respuestas:
+    - "habr\xEDa-abr\xEDa "
+    - "abr\xEDa- habr\xEDa"
+    - "habrir\xEDa-ab\xEDa"
+    - "habria-hab\xEDa"
+    correcta: 1
+  - pregunta: "\xC8l almirante _______ que hacer muchas diligencias, para poder arreglar
+      el _________ que se da\xF1\xF2 en su barco."
+    respuestas:
+    - tubo-tuvo
+    - tuvo-tuvo
+    - tuvo-tubo
+    - tuvieron-tuvo
+    correcta: 1
+  - pregunta: "_____ muchos libros ilustrados en la tienda , \xA1_____! me encantar\xECa
+      tenerlos todos. "
+    respuestas:
+    - hay-ay
+    - "ah\xED- hay"
+    - ahi- hay
+    - "ay-ah\xEC"
+    correcta: 0
   indice: 0
   botones: []
   txtPregunta: {fileID: 216662796}
@@ -870,6 +894,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1403814020}
     m_Modifications:
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: juego
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263251157439399882, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
+        type: 3}
+      propertyPath: categoria
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3289113690544200919, guid: 69b0ece5f48536e4da29e2df4b3a4a3f,
         type: 3}
       propertyPath: m_Name
