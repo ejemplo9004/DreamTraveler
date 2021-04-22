@@ -27,6 +27,22 @@ public class GestorPreguntas : MonoBehaviour
 
 	IEnumerator Start()
 	{
+		List<Pregunta> ordenada = new List<Pregunta>();
+		List<Pregunta> desordenada = new List<Pregunta>();
+		for (int i = 0; i < preguntas.Length; i++)
+		{
+			ordenada.Add(preguntas[i]);
+		}
+
+		for (int i = 0; i < preguntas.Length; i++)
+		{
+			int k = Random.Range(0,ordenada.Count);
+			desordenada.Add(ordenada[k]);
+			ordenada.RemoveAt(k);
+		}
+
+		preguntas = desordenada.ToArray();
+
 		for (i = 0; i < preguntas.Length; i++)
 		{
 			CrearPregunta(preguntas[i]);

@@ -49,13 +49,14 @@ MonoBehaviour:
   posicionInicial: {x: 0, y: 0, z: 0}
   posObjetivo: {x: 0, y: 0, z: 0}
   t: 0
-  velocidad: 0.05
+  velocidad: 0.03
   periodo: 0.05
   tipo: 0
   cualEra: 0
   txtPalabra: {fileID: 258199944917705177}
   devolviendose: 0
   animPersonaje: {fileID: 6333428203058840851}
+  padreDelHijo: 0
 --- !u!70 &1817220185914158845
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
